@@ -1,0 +1,1 @@
+cat dockq.list | parallel -j 40 > /home/junjiechen/1_work/250401-Dpepalign/Benchmark/Rosetta/interface/AF3/predict/metrices/DockQ/dockq_job.out

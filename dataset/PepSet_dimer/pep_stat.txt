@@ -1,0 +1,17 @@
+Pep_length,PDB_ID
+14,1a0n,1mv0,2jqk,3pe4,3zrj,4a2a,5ei3,5j3q,6co4
+13,1cqg,1eg4,1o0p,2las,2p1o,2v8c,3bqo,4lk9,4mvi,4oyk,4uqy,5di8,5v3r,6e5x
+7,1czy,1p7v,3agy,3emw,3s9c,3shb,3wgx,4ep2,4leb,4ouc,4qbr,5fpx,5i7z,5lyn
+6,1ddv,1f8h,1jw6,1ywi,2ymt,3emh,4fii,4j8b,4m91,4r5i,4x2h,5bs2,5gu4,5njc,5oj5
+17,1f47,2lsi,6dei,6f6d,6fbk
+18,1j2x,1yfn,2kbr,3plu,3tiw,6f0w,6g5g
+8,1jd5,1t74,1w80,1yy6,2c3i,2e4h,2fgr,2jkg,2xcb,3r42,4c5a,4nxr,4odk,5fv6,5m5r,5o9u,5wyi
+5,1jq8,1mf4,1nvq,1v1t,2aij,2hpl,2m0v,3fp2,4hdq,4ny3,4x3o,5e33,5ggp,5kds,5onp,6f4s
+11,1l2z,1r17,1rxz,2jnw,2qos,3bej,3g2s,3p72,3v2o,4hom,4xc2,4z2o,5crw,5xhz
+9,1lb6,2ka9,2khh,3i5r,3obq,4bt9,4pge,4u0c,5dai,5n22,5t0k,5wfv
+15,1nrl,2ivz,2vzg,3h1z,4txr,5yay,6f0y
+16,1pmx,2i94,2koh,3et3,4iga,4xek,5efi
+10,1ywo,2fka,2ke1,2o9v,2r7g,4m5s,4pd1,4yje,5huw,5nqv,5xxq,6b27,6ej7
+12,2aq9,2cch,2ht9,2rol,2xrw,4gq6,4j2c,4lzf,4nuu,4zoz,5d94,5n85,6h7b
+19,2cny,4dg3,5fml,5v2p
+20,2nnu,2xpn,5tgi

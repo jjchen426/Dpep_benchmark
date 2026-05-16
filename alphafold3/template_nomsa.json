@@ -1,0 +1,29 @@
+{
+    "name": "7r6r",
+    "modelSeeds": [],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "PRO",
+                "id": "A",
+                "pairedMsa": "./xxx/msa/",
+                "unpairedMsa": "uniref100",
+                "templates": null
+                }
+            
+        },
+        {
+            "protein": {
+                "sequence": "PEP",
+                "id": "B",
+                "pairedMsa": "./xxx/msa/",
+                "unpairedMsa": "uniref100",
+                "templates": []
+                }
+            }
+        
+    ]
+}
+

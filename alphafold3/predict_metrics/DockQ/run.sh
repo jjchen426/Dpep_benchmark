@@ -1,0 +1,1 @@
+cat dockq.list | parallel -j 40 > dockq.out

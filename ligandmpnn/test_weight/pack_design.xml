@@ -1,0 +1,38 @@
+<ROSETTASCRIPTS>
+  <SCOREFXNS>
+    <ScoreFunction name="sfxn" weights="%%wts%%"/>
+  </SCOREFXNS>
+  <RESIDUE_SELECTORS>
+    <Chain name="chainL" chains="L"/>
+    <Not name="not_chainL" selector="chainL"/>
+  </RESIDUE_SELECTORS>
+  
+  <TASKOPERATIONS>
+    <ExtraRotamersGeneric name="extraro" ex1="1" ex2="1" ex1aro="1"/>
+
+    <OperateOnResidueSubset name="lock_chain" 
+                            selector="not_chainL">
+        <PreventRepackingRLT/>
+    </OperateOnResidueSubset>
+
+  </TASKOPERATIONS>
+
+  <FILTERS>
+    <SequenceRecovery name="seqrec_L"
+                      rate_threshold="-0.1"
+                      task_operations="extraro,lock_chain"
+                      scorefxn="sfxn"
+                      />
+  </FILTERS>
+
+  <MOVERS>
+    <PackRotamersMover name="pack_design"
+                       scorefxn="sfxn"
+                       task_operations="extraro,lock_chain"/>
+  </MOVERS>
+  <PROTOCOLS>
+    <Add mover="pack_design"/>
+    <Add filter="seqrec_L"/>
+  </PROTOCOLS>
+  <OUTPUT scorefxn="sfxn"/>
+</ROSETTASCRIPTS>

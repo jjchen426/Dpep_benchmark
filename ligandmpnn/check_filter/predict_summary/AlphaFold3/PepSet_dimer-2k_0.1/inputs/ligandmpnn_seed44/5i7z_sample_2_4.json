@@ -1,0 +1,30 @@
+{
+    "name": "5i7z_sample_2_4",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "HRRVRLLKHGSDKPLGFYIRDGTSVRVTASGLEKQPGIFISRLVPGGLAESTGLLAVNDEVIEVNGIEVAGKTLDQVTDMMVANSSNLIITVKPAN",
+                "id": "A",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/test_filter/Protenix/2000-0.1T-dimer/5i7z_sample_2/ligandmpnn_seed44/5i7z_sample_2_4/msa/msa_pro/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/test_filter/Protenix/2000-0.1T-dimer/5i7z_sample_2/ligandmpnn_seed44/5i7z_sample_2_4/msa/msa_pro/non_pairing.a3m",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "AAPMHRV",
+                "id": "B",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/test_filter/Protenix/2000-0.1T-dimer/5i7z_sample_2/ligandmpnn_seed44/5i7z_sample_2_4/msa/msa_pep/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/test_filter/Protenix/2000-0.1T-dimer/5i7z_sample_2/ligandmpnn_seed44/5i7z_sample_2_4/msa/msa_pep/non_pairing.a3m",
+                "templates": []
+            }
+        }
+    ]
+}

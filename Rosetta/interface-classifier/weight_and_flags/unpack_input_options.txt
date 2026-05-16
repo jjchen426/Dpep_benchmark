@@ -1,0 +1,9 @@
+-use_input_sc 
+-compute_packstat true 
+-tracer_data_print false
+-pack_input false 
+-add_regular_scores_to_scorefile true 
+-out:file:score_only interface_score.sc
+-atomic_burial_cutoff 0.01 # 鉴别包埋极性原子的标准。
+-sasa_calculator_probe_radius 1.4 # 蛋白表面探针的半径
+-pose_metrics::interface_cutoff 8.0 # 蛋白-蛋白相互作用界面截断半径。设置越大，界面范围越大。

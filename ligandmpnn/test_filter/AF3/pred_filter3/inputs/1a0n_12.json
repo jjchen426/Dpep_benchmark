@@ -1,0 +1,30 @@
+{
+    "name": "1a0n_12",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "VTLFVALYDYEARTEDDLSFHKGEKFQILNSSEGDWWEARSLTTGETGYIPSNYVAPV",
+                "id": "A",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/protenix/PepSet/MSA_pro_all_PepSet_dimer/1a0n/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/protenix/PepSet/MSA_pro_all_PepSet_dimer/1a0n/unpaired.a3m",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "EKTKQPVIPEKGLK",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

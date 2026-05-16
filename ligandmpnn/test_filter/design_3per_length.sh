@@ -1,0 +1,46 @@
+declare -A model_params
+
+model_params["ligandmpnn_v_32_020_25"]="./model_params/ligandmpnn_v_32_020_25.pt"
+# model_params["ligandmpnn_v_32_030_25"]="./model_params/ligandmpnn_v_32_030_25.pt"
+
+model_type="ligand_mpnn"
+
+# 读取pdb.list文件，每一行为一个pdb，保存为一个变量pdb_path，然后在循环中使用该变量
+# for pdb in $(cat /home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_dimer_rest/PDB.list); do
+#     echo "Processing PDB: $pdb"
+#     for model in "${!model_params[@]}"; do
+#         param="${model_params[$model]}"
+#         echo "Running LigandMPNN with model: $model"
+#         CUDA_VISIBLE_DEVICES=2 python /home/junjiechen/1_work/250401-Dpepalign/soft/LigandMPNN/run.py \
+#             --model_type $model_type \
+#             --checkpoint_ligand_mpnn $param \
+#             --seed 111 \
+#             --pdb_path /home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_dimer_rest/$pdb.pdb \
+#             --parse_atoms_with_zero_occupancy 1 \
+#             --chains_to_design "L" \
+#             --temperature 0.1 \
+#             --out_folder "./Output_rest/$pdb/$model" \
+#             --batch_size 2000 \
+#             --number_of_batches 1
+#     done
+# done
+
+for pdb in $(cat /home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/PDB.list); do
+    echo "Processing PDB: $pdb"
+    for model in "${!model_params[@]}"; do
+        param="${model_params[$model]}"
+        echo "Running LigandMPNN with model: $model"
+        python /home/junjiechen/1_work/250401-Dpepalign/soft/LigandMPNN/run.py \
+            --model_type $model_type \
+            --checkpoint_ligand_mpnn $param \
+            --seed 42 \
+            --pdb_path /home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/$pdb.pdb \
+            --parse_atoms_with_zero_occupancy 1 \
+            --chains_to_design "L" \
+            --temperature 0.3 \
+            --out_folder "./Output/2000-0.3T/$pdb/$model" \
+            --batch_size 2000 \
+            --number_of_batches 1
+    done
+done
+

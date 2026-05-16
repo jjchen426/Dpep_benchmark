@@ -1,0 +1,32 @@
+{
+    "name": "4a2a_73",
+    "modelSeeds": [
+        42,
+        43,
+        44,
+        45,
+        46
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "TVFYTSIDIGSRYIKGLVLGKWEALAFSSVKSRGLDEGEIKDAIAFKESVNTLLKELEEQLQKSLRSDFVISFSSVSFEREDTVIERDFGEEKRSITLDILSEMQSEALEKLKENGKTPLHIFSKRYLLDDERIVFNPLDMKASKIAIEYTSIVVPLKVYEMFYNFLQDTVKSPFQLKSSLVSTAEGVLTTPEKDRGVVVVNLGYNFTGLIAYKNGVPIKISYVPVGMKHVIKDVSAVLDTSFEESERLIITHGNAVYNDLKEEEIQYRGLDGNTIKTTTAKKLSVIIHARLREIMSKSKKFFREVEAKIPGGVVLTGGGAKIPRINELATEVFKSPVRTGCYANSDRPSIINADEVANDPSFAAAFGNVFA",
+                "id": "A",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pro_all_PepSet_dimer/4a2a/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pro_all_PepSet_dimer/4a2a/non_pairing.a3m",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "RTPAVVKAGLEHLL",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

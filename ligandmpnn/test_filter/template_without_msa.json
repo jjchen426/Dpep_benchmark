@@ -1,0 +1,21 @@
+[
+{
+    "sequences": [
+        {
+            "proteinChain": {
+                "sequence": "PRO",
+                "count": 1
+            }
+        },
+        {
+            "proteinChain": {
+                "sequence": "PEP",
+                "count": 1
+            }
+        }
+    ],
+    "modelSeeds": [],
+    "assembly_id": "1",
+    "name": "7r6r"
+}
+]

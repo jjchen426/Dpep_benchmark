@@ -1,0 +1,30 @@
+{
+    "name": "3p72_8",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "HPICEVSKVASHLEVNCDKRQLTALPPDLPKDTTILHLSENLLYTFSLATLMPYTRLTQLNLDRCELTKLQVDGTLPVLGTLDLSHNQLQSLPLLGQTLPALTVLDVSFNRLTSLPLGALRGLGELQELYLKGNELKTLPPGLLTPTPKLEKLSLANNQLTELPAGLLNGLENLDTLLLQENSLYTIPKGFFGSHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKQGVDVKAMTSNVASVQCDNSDKFPVYKYPGKGCPLVPR",
+                "id": "A",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/protenix/PepSet/MSA_pro_all_PepSet_dimer/3p72/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/protenix/PepSet/MSA_pro_all_PepSet_dimer/3p72/non_pairing.a3m",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "ATVEQNLHMLS",
+                "id": "B",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/predict/AlphaFold3/PepSet_AF3_pass-2k_0.1/pep_msa/3p72/seed44/8/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/predict/AlphaFold3/PepSet_AF3_pass-2k_0.1/pep_msa/3p72/seed44/8/non_pairing.a3m",
+                "templates": []
+            }
+        }
+    ]
+}

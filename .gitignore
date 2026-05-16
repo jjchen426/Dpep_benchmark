@@ -1,0 +1,158 @@
+# ============================================
+# 全局排除：生成的数据/结果文件类型
+# ============================================
+*.tsv
+*.log
+*.pdb
+*.cif
+*.gz
+*.a3m
+*.fasta
+*.fa
+*.out
+*.sc
+*.mutfile
+*.ddg
+*.m8
+*.pml
+*.params
+*.sample
+*.trb
+
+/**/model_params/**
+
+# 结果/指标汇总（按需选择性恢复，见下方各项目区）
+*.csv
+
+# ============================================
+# Python / Jupyter 缓存
+# ============================================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.mypy_cache/
+
+
+
+# ============================================
+# alphafold3 — 恢复必要文件
+# 保留：脚本、notebook、配置JSON、PDB列表
+# ============================================
+/alphafold3/predict/original_result/
+/alphafold3/test/
+!alphafold3/*.sh
+!alphafold3/*.ipynb
+!alphafold3/*.json
+!alphafold3/*.list
+!alphafold3/readme.md
+!/alphafold3/predict_metrics/summary/*.csv
+
+# ============================================
+# dataset — 排除所有处理后的PDB/噪声数据
+# 保留：PDB列表、JSON清单、notebook
+# ============================================
+!/dataset/*.ipynb
+
+
+
+# ============================================
+# ligandmpnn — 排除生成的设计/评分数据
+# 保留：脚本、notebook、配置
+# ============================================
+/ligandmpnn/**/model_params/
+/ligandmpnn/check_filter/predict/
+/ligandmpnn/test_filter/LigandMPNN-Output/
+/ligandmpnn/test_filter/Protenix/
+/ligandmpnn/test_hyperparam/PeptideMPNN_weight/
+/ligandmpnn/test_weight/outputs/
+/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/*
+/ligandmpnn/test_hyperparam/outputs/*
+
+!/ligandmpnn/*.md
+!/ligandmpnn/*.ipynb
+!/ligandmpnn/*.py
+!/ligandmpnn/*.sh
+!/ligandmpnn/*.xml
+
+# === LigandMPNN-Output-pred_dimer: 仅保留 csv 结果 ===
+!/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/**/
+!/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/**/*.csv
+
+# === test_hyperparam/outputs: 仅保留 csv + 图片 ===
+!/ligandmpnn/test_hyperparam/outputs/**/
+!/ligandmpnn/test_hyperparam/outputs/**/*.csv
+!/ligandmpnn/test_hyperparam/outputs/**/*.png
+
+
+# ============================================
+# predict_summary — 恢复模板CSV，排除结果CSV
+# ============================================
+!/predict_summary/*.ipynb
+!/predict_summary/*.md
+!/predict_summary/template.csv
+!/predict_summary/csv_summary/
+
+# ============================================
+# protenix — 恢复配置/脚本，排除预测结果
+# ============================================
+!/protenix/*.sh
+!/protenix/*.json
+!/protenix/PepSet/*.sh
+!/protenix/PepSet/*.ipynb
+!/protenix/PepSet/*.json
+!/protenix/PepSet/README
+!/protenix/PepSet/DockQ/out/*.out
+
+
+# ============================================
+# RFdiffusion2
+# ============================================
+/RFdiffusion2/minimized/
+/RFdiffusion2/resources/
+/RFdiffusion2/run/samples
+/RFdiffusion2/run/outputs
+/RFdiffusion2/alanine-scan/ddg_files/
+/RFdiffusion2/alanine-scan/ddg_plot/*
+!/RFdiffusion2/alanine-scan/ddg_plot/ddgplot.tar.gz
+
+!/RFdiffusion2/*.ipynb
+!/RFdiffusion2/*.py
+!/RFdiffusion2/*.sh
+!/RFdiffusion2/*.json
+!/RFdiffusion2/*.csv
+!/RFdiffusion2/alanine-scan/*.csv
+!/RFdiffusion2/alanine-scan/.alascan_status*
+!/RFdiffusion2/alanine-scan/ddgplot.tar.gz
+
+
+# ============================================
+# clash_metrics
+# ============================================
+/clash_metrics/PepSet_dimer/
+!/clash_metrics/*.py
+!/clash_metrics/*.ipynb
+!/clash_metrics/*.md
+
+# ============================================
+# Rosetta — 整个目录包含独立git子仓库
+# 当前排除2个子目录，但76GB中大量是生成数据
+# ============================================
+/Rosetta/Rosetta-interface/
+/Rosetta/interface-classifier/InterfaceAnalyzer/
+/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/ligandmpnn_seed42_pdb
+/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax
+!/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/interface
+!/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.sh
+!/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.ipynb
+!/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.list
+
+
+
+# ============================================
+# 根目录文档/列表恢复
+# ============================================
+!/README.md
+!/readme-agent.md
+!/symlink_files.txt
+!/wrong_files.txt
+!/check.ipynb

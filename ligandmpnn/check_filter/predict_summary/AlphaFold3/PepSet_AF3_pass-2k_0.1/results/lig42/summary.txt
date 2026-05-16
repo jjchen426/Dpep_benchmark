@@ -1,0 +1,11 @@
+匹配到设计目录: 1100
+二级sample目录总数: 16500
+成功写入行数: 16500
+CSV saved to: /home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/predict/AlphaFold3/PepSet_AF3_pass-2k_0.1/outputs/ligandmpnn_seed42/success_rates_by_parent_complex.csv
+
+不同scRMSD阈值下的平均成功率(%)：
+ scRMSD_cutoff  mean_success_rate
+           1.0          36.727273
+           1.5          45.636364
+           2.0          50.545455
+           2.5          53.454545

@@ -1,0 +1,8 @@
+{
+    "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/test_hyperparam/database/PepSet_AF3_noC_pass":{
+        "temperature":[0.1, 0.2, 0.3, 0.4, 0.5],
+        "method":["LigandMPNN", "ProteinMPNN"],
+        "batch_size":10,
+        "number_of_batches":1
+    }
+}

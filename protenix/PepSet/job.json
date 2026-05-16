@@ -1,0 +1,3616 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "VTLFVALYDYEARTEDDLSFHKGEKFQILNSSEGDWWEARSLTTGETGYIPSNYVAPV",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/1a0n",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PPRPLPVAPGSSKT",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/1a0n",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1a0n"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MVKQIESKTAFQEALDAAGDKLVVVDFSATWCGPAKMIKPFFHSLSEKYSNVIFLEVDVDDAQDVASEAEVKATPTFQFFKKGQKVGEFSGANKEKLEATINELV",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PATLKICSWNVDG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1cqg"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "AMADLEQKVLEMEASTYDGVFIWKISDFPRKRQEAVAGRIPAIFSPAFYTSRYGYKMCLRIYLNGDGTGRGTHLSLFFVVMKGPNDALLRWPFNQKVTLMLLDQNNREHVIDAFRPDVTSSSFQRPVNDMNIASGCPLFCPVSKMEAKNSYVRDDAIFIKAIVDLTGL",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/1czy",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PQQATDD",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/1czy",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1czy"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "IFSTRAHVFQIDPNTKKNWVPTSKHAVTVSYFYDSTRNVYRIISLDGSKAIINSTITPNMTFTKTSQKFGQWADSRANTVYGLGFSSEHHLSKFAEKFQEFKEA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TPPSPF",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1ddv"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PASQHFLSTSVQGPWERAISPNKVPYYINHETQTTCWDHPKMTELYQSLADLNNVRFSAYRTAMKLRRLQKALCLDLLSLSAACDALDQHNLKQNDQPMDILQIINCLTTIYDRLEQEHNNLVNVPLCVDMCLNWLLNVYDTGRTGRIRVLSFKTGIISLCKAHLEDKYRYLFKQVASSTGFCDQRRLGLLLHDSIQIPRQLGEVASFGGSNIEPSVRSCFQFANNKPEIEAALFLDWMRLEPQSMVWLPVLHRVAAAET",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "NMTPYRSPPPYVP",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1eg4"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MDKPKRKEAVIIMNVAAHHGSELNGELLLNSIQQAGFIFGDMNIYHRHLSPDGSGPALFSLANMVKPGTFDPEMKDFTTPGVTIFMQVPSYGDELQLFKLMLQSAQHIADEVGGVVLDDQRRMMTPQKLREYQDIIREVKDANA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KEPDYLDIPAFLRKQAD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1f47"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PWAVKPEDKAKYDAIFDSLSPVNGFLSGDKVKPVLLNSKLPVDILGRVWELSDIDHDGMLDRDEFAVAMFLVYCALEKEPVPMSLPPALVPPSKR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/1f8h",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "STNPFR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/1f8h",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1f8h"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GPLDVQVTEDAVRRYLTRKPMTTKDLLKKFQTKKTGLSSEQTVNVLAQILKRLNPERKMINDKMHFSLKE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/1j2x",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SEADEMAKALEAELNDLM",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/1j2x",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1j2x"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GNYFPQYPEYAIETARLRTFEAWPRNLKQKPHQLAEAGFFYTGVGDRVRCFSCGGGLMDWNDNDEPWEQHALWLSQCRFVKLMKGQLYIDTVAAKPVLAEEKEES",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "AIAYFIPD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1jd5"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SLLEFGKMILEETGKLAIPSYSSYGCYCGWGGKGTPKDATDRCCFVHDCCYGNLPDCNPKSDRYKYKRVNGAIVCEKGTSCENRICECDKAAAICFRQNLNTYSKKYMLYPDFLCKGELKC",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LAIYS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1jq8"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ADTIVAVELDTYPNTDIGDPSYPHIGIDIKSVRSKKTAKWNMQNGKVGTAHIIYNSVDKRLSAVVSYPNADSATVSYDVDLDNVLPEWVRVGLSASTGLYKETNTILSWSFTSKLKSNSTHETNALHFMFNQFSKDQKDLILQGDATTGTDGNLELTRVSSNGSPQGSSVGRALFYAPVHIWESSAVVASFEATFTFLIKSPDSHPADGIAFFISNIDSSIPSGSTGRLLGLFPDAN",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "MYWYPY",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1jw6"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DVMWEYKWENTGDAELYGPFTSAQMQTWVSEGYFPDGVYCRKLDPPGGQFYNSKRIDFDLYT",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SHRPPPPGHRV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1l2z"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "QQCNGIYIWKIGNFGMHLKCQEEEKPVVIHSPGFYTGKPGYKLCMRLHLQLPTAQRCANYISLFVHTMQGEYDSHLPWPFQGTIRLTILDQSEAPVRQNHEEIMDAKPELLAFQRPTIPRNPKGFGYVTFMHLEALRQRTFIKDDTLLVRCEVST",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KQEPQEIDF",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1lb6"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "NLYQFKNMIQCTVPSRSWADFADYGCYCGKGGSGTPVDDLDRCCQTHDNCYNEAENISGCRPYFKTYSYECTQGTLTCKGDNNACAASVCDCDRLAAICFAGAPYNDANYNIDLKARCN",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "VAFRS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1mf4"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GRLDLPPGFMFKVQAQHDYTATDTDELQLKAGDVVLVIPFQNPEEQDEGWLMGVKESDWNQHKKLEKCRGVFPENFTERVP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LLPTPPLSPSRRSG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1mv0"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GLTEEQRMMIRELMDAQMKTFDTTFSHFKNFRLPGVSREEAAKWSQVRKDLCSLKVSLQLRGEDGSVWNYKPPADSGGKEIFSLLPHMADMSTYMFKGIISFAKVISYFRDLPIEDQISLLKGAAFELCQLRFNTVFNAETGTWECGRLSYCLEDTAGGFQQLLLEPMLKFHYMLKKLQLHEEEYVLMQAISLFSPDRPGVLQHRVVDQLQEQFAITLKSYIECNRPQPAHRFLFLKIMAMLTELRSINAQHTQRLLRIQDIHPFATPLMQELFGITG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/1nrl",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SLTERHKILHRLLQE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/1nrl",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1nrl"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "VPFVEDWDLVQTLGEGAYGEVQLAVNRVTEEAVAVKIVDMKNIKKEICINKMLNHENVVKFYGHRREGNIQYLFLEYCSGGELFDRIEPDIGMPEPDAQRFFHQLMAGVVYLHGIGITHRDIKPENLLLDERDNLKISDFGLATVFRYNNRERLLNKMCGTLPYVAPELLKRREFHAEPVDVWSCGIVLTAMLAGELPWDQPSDSCQEYSDWKEKKTYLNPWKKIDSAPLALLHKILVENPSARITIPDIKKDRWYNKPLKKGA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ASVSA",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1nvq"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GHPTEVLCLMNMVLPEELLDDEEYEEIVEDVRDECSKYGLVKSIEIPRPVDGVEVPGCGKIFVEFTSVFDCQKAMQGLTGRKFANRVVVTKYCDPDSYHRRDFW",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PSKKRKRSRWNQD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1o0p"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "AAQTNAPWGLARISSTSPGTSTYYYDESAGQGSCVYVIDTGIEASHPEFEGRAQMVKTYYYSSRDGNGHGTHCAGTVGSRTYGVAKKTQLFGVKVLDDNGSGQYSTIIAGMDFVASDKNNRNCPKGVVASLSLGGGYSSSVNSAAARLQSSGVMVAVAAGNNNADARNYSPASEPSVCTVGASDRYDRRSSFSNYGSVLDIFGPGTDILSTWIGGSTRSISGTSMATPHVAGLAAYLMTLGKTTAASACRYIADTANKGDLSNIPFGTVNLLAYNNYQA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PAPFAAA",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1p7v"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/1pmx",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RNCFESVAALRRCMYG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/1pmx",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1pmx"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GSNVNHLIKVTDQSITEGYDDSDGIIKAHDAENLIYDVTFEVDDKVKSGDTMTVNIDKNTVPSDLTDSFAIPKIKDNSGEIIATGTYDNTNKQITYTFTDYVDKYENIKAHLKLTSYIDKSKVPNNNTKLDVEYKTALSSVNKTITVEYQKPNENRTANLQSMFTNIDTKNHTVEQTIYINPLRYSAKETNVNISGNGDEGSTIIDDSTIIKVYKVGDNQNLPDSNRIYDYSEYEDVTNDDYAQLGNNNDVNINFGNIDSPYIIKVISKYDPNKDDYTTIQQTVTMQTTINEYTGEFRTASYDNTIAFSTSSGQGQGDLPP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GFFFSARGHRP",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1r17"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MIDVIMTGELLKTVTRAIVALVSEARIHFLEKGLHSRAVDPANVAMVIVDIPKDSFEVYNIDEEKTIGVDMDRIFDISKSISTKDLVELIVEDESTLKVKFGSVEYKVALIDPSAIRKEPRIPELELPAKIVMDAGEFKKAIAAADKISDQVIFRSDKEGFRIEAKGDVDSIVFHMTETELIEFNGGEARSMFSVDYLKEFCKVAGSGDLLTIHLGTNYPVRLVFELVGGRAKVEYILAPRIESE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KSTQATLERWF",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1rxz"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "QPIFLNVLEAIEPGVVCAGHDNNQPDSFAALLSSLNELGERQLVHVVKWAKALPGFRNLHVDDQMAVIQYSWMGLMVFAMGWRSFTNVNSRMLYFAPDLVFNEYRMHKSRMYSQCVRMRHLSQEFGWLQITPQEFLCMKALLLFSIIPVDGLKNQKFFDELRMNYIKELDRIIACKRKNPTSCSRRFYQLTKLLDSVQPIARELHQFTFDLLIKSHMVSVDFPEMMAEIISVQVPKILSGKVKPIYFHT",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SRWQALFD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1t74"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DPREVILCKDQDGKIGLRLKSIDNGIFVQLVQANSPASLVGLRFGDQVLQINGENCAGWSSDKAHKVLKQAFGEKITMTIRDRPFERTITMHKDSTGHVGFIFKNGKITSIVKDSSAARNGLLTEHNICEINGQNVIGLKDSQIADILSTSGTVVTITIMPA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "NEYKV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1v1t"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PGILAPLAPGSEDNFARFVCKNNGVLFENQLLQIGLKSEFRQNLGRMFIFYGNKTSTQFLNFTPTLICADDLQTNLNLQTKPVDPTVDGGAQVQQVINIECISDFTEAPVLNIQFRYGGTFQNVSVKLPITLNKFFQPTEMASQDFFQRWKQLSNPQQEVQNIFKAKHPMDTEITKAKIIGFGSALLEEVDPNPANFVGAGIIHTKTTQIGCLLRLEPNLQAQMYRLTLRTSKDTVSQRLCELLSEQF",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/1w80",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PKGWVTFE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/1w80",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1w80"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LSQLTPRRPYLLRAFYEWLLDNQLTPHLVVDVTLPGVQVPMEYARDGQIVLNIAPRAVGNLELANDEVRFNARFGGIPRQVSVPLAAVLAIYARENGAGTMFEPEAAYD",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EAQPAPHQWQKMPFWQKV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1yfn"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SMWTEHKSPDGRTYYYNTETKQSTWEKP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PPPLPP",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1ywi"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SAVKALFDYKAQREDELTFTKSAIIQNVEKQDGGWWRGDYGGKKQLWFPSNYVEE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QPPVPPQRPM",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1ywo"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "TSWRSEATFQFTVERFSRLSESVLSPPCFVRNLPWKIMVMPRFQKSVGFFLQCNAESDSTSWSCHAQAVLKIINYRDDEKSFSRRISHLFFHKENDWGFSNFMAWSEVTDPEKGFIDDDKVTFEVFVQADAPHGVAW",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DPGEGPST",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "1yy6"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LAHSKMVPIPAGVFTMGTDDPQIKQDGEAPARRVTIDAFYMDAYEVSNTEFEKFVNSTGYLTEAEKFGDSFVFEGMLAAAPWWLPVKGANWRHPEGPDSTILHRPDHPVLHVSWNDAVAYCTWAGKRLPTEAEWEYSCRGGLHNRLFPWGNKLQPKGQHYANIWQGEFPVTNTGEDGFQGTAPVDAFPPNGYGLYNIVGNAWEWTSDWWTVHHSVEETLNPKGPPSGKDRVKKGGSYMSHRSYCYRYRCAARSQNTPDSSASNLGFRCAADRLP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2aij",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "CTPSR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2aij",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2aij"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MIDKSAFVHPTAIVEEGASIGANAHIGPFCIVGPHVEIGEGTVLKSHVVVNGHTKIGRDNEIYQFASIGEVNQDLKYAGEPTRVEIGDRNRIRESVTIHRGTVQGGGLTKVGSDNLLMINAHIAHDCTVGNRCILANNATLAGHVSVDDFAIIGGMTAVHQFCIIGAHVMVGGCSGVAQDVPPYVIAQGNHATPFGVNIEGLKRRGFSREAITAIRNAYKLIYRSGKTLDEVKPEIAELAETYPEVKAFTDFFARSTRGLIR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "WMLDPIAGKWSR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2aq9"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "QYQVGPLLGSGGFGSVYSGIRVSDNLPVAIKHVEKDRISDWGEGTRVPMEVVLLKKVSSGFSGVIRLLDWFERPDSFVLILERPEPVQDLFDFITERGALQEELARSFFWQVLEAVRHCHNCGVLHRDIKDENILIDLNRGELKLIDFGSGALLKDTVYTDFDGTRVYSPPEWIRYHRYHGRSAAVWSLGILLYDMVCGDIPFEHDEEIIGGQVFFRQRVSSECQHLIRWCLALRPSDRPTFEEIQNHPWMQDVLLPQETAEIHLH",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KRRRHPSG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2c3i"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "NEVPDYHEDIHTYLREMEVKCKPKVGYMKKQPDITNSMRAILVDWLVEVGEEYKLQNETLHLAVNYIDRFLSSMSVLRGKLQLVGTAAMLLASKFEEIYPPEVAEFVYITDDTYTKKQVLRMEHLVLKVLTFDLAAPTVNQFLTQYFLHQQPANCKVESLAMFLGELSLIDADPYLKYLPSVIAGAAFHLALYTVTGQSWPESLIRKTGYTLESLKPCLMDLHQTYLKAPQHAQQSIREKYKNSKYHGVSLLNPPETLNL",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2cch",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "HTLKGRRLVFDN",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2cch",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cch"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2cny",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GSFLPNSEQQKSVDAVFSS",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2cny",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "RELKIGDRVLVGGTKAGVVRFLGETDFAKGEWCGVELDEPLGKNDGAVAGTRYFQCQPKYGLFAPVHKVTKIGF",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2e4h",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GEEEGEEY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2e4h",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2e4h"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ESSVTLFGIVDTNVAYVNKDAAGDSRYGLGTSGASTSRLGLRGTEDLGGGLKAGFWLEGEIFGDDGNASGFNFKRRSTVSLSGNFGEVRLGRDLVPTSQKLTSYDLFSATGIGPFMGFRNWAAGQGADDNGIRANNLISYYTPNFGGFNAGFGYAFDEKQTIGTADSVGRYIGGYVAYDNGPLSASLGLAQQKTAVGGLATDRDEITLGASYNFGVAKLSGLLQQTKFKRDIGGDIKTNSYMLGASAPVGGVGEVKLQYALYDQKAIDSKAHQITLGYVHNLSKRTALYGNLAFLKNKDASTLGLQAKGVYAGGVQAGESQTGVQVGIRHAF",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DNWQNGTS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2fgr"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ADKELKFLVVDDFSTMRRIVRNLLKELGFNNVEEAEDGVDALNKLQAGGFGFIISDWNMPNMDGLELLKTIRADSAMSALPVLMVTAEAKKENIIAAAQAGASGYVVKPFTAATLEEKLNKIFEKLGM",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "VDDLLDSLGF",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2fka"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SASPAVAELCQNTPETFLEASKLLLTYADNILRNPSDEKYRSIRIGNTAFSTRLLPVRGAVECLFEMGFEEGETHLIFPKKASVEQLQKIRDLIAIERSS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DDLYG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2hpl"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LATAPVNQIQETISDNCVVIFSKTSCSYCTMAKKLFHDMNVNYKVVELDLLEYGNQFQDALYKMTGERTVPRIFVNGTFIGGATDTHRLHKEGKLLPLVHQCYL",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2ht9",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LGTENLYFQSME",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2ht9",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2ht9"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ALSKEILEELQLNTKFTEEELSSWYQSFLKECPSGRITRQEFQTIYSKFFPEADPKAYAQHVFRSFDANSDGTLDFKEYVIALHMTSAGKTNQKLEWAFSLYDVDGNGTISKNEVLEIVTAIFKMISPEDTKHLPEDENTPEKRAEKIWGFFGKKDDDKLTEKEFIEGTLANKEILRLIQFE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "MDFGSLETVVANSAFI",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2i94"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GRPIGVVPFQWAPEDIGGIVAADLRNSGKFNPLDRARLPQQPGSAQEVQPAAWSALGIDAVVVGQVTPNPDGSYNVAYQLVDTGGAPGTVLAQNSYKVNKQWLRYAGHTASDEVFEKLTGIKGAFRTRIAYVVQTNGGQFPYELRVSDYDGYNQFVVHRSPQPLMSPAWSPDGSKLAYVTFESGRSALVIQTLANGAVRQVASFPRHNGAPAFSPDGSKLAFALSKTGSLNLYVMDLASGQIRQVTDGRSNNTEPTWFPDSQNLAFTSDQAGRPQVYKVNINGGAPQRITWEGSQNQDADVSSDGKFMVMVSSNGGQQHIAKQDLATGGVQVLSSTFLDETPSLAPNGTMVIYSSSQGMGSVLNLVSTDGRFKARLPATDGQVKFPAWSPYL",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2ivz",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GASDGSGWSSENNPW",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2ivz",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2ivz"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "YSWDSYLNDRLLATNQVSGAGLASEEDGVVYACVAQGEESDPNFDKWSLFYKEDYDIEVEDENGTKTTKTINEGQTILVVFNEGYAPDGVWLGGTKYQFINIERDLEFEGYNFDVATCAKLKGGLHLVKVPGGNILVVLYDEEKEQDRGNSKIAALTFAKELAES",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PPPPPPPP",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2jkg"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "NSIIVSPRQRGNPVLKFVRNVPWEFGDVIPDYVLGQSTCALFLSLRYHNLHPDYIHGRLQSLGKNFALRVLLVQVDVKDPQQALKELAKMCILADCTLILAWSPEEAGRYLETYKA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KIIDTGGGFIL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2jnw"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "NLQKAIDLASKAAQEDKAGNYEEALQLYQHAVQYFLHVVKYEAQGDKAKQSIRAKCTEYLDRAEKLKEYLKN",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DEEIERQLKALGVD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2jqk"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MEYEEITLERGNSGLGFSIAGGTDNPHIGDDPSIFITKIIPGGAAAQDGRLRVNDSILFVNEVDVREVTHSAAVEALKEAGSIVRLYVMRRKPPAEKVMEIKLIKGPKGLGFSIAGGVGNQHIPGDNSIYVTKIIEGGAAHKDGRLQIGDKILAVNSVGLEDVMHEDAVAALKNTYDVVYLKVAKPSNA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QVVPFSSSV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2ka9"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MDRKVAREFRHKVDFLIENDAEKDYLYDVLRMYHQTMDVAVLVGDLKLVINEPSRLPLFDAIRPLIPLKHQVEYDQLTPR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DDDRYLREAIQEYDNIAK",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2kbr"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GAMAQKNEDECAVCRDGGELICCDGCPRAFHLACLSPPLREIPSGTWRCSSCLQATVQEVQPRAEE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ARTKQTARKS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2ke1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "RLNPVQLELLNKLHLETKLNAEYTFMLAEQSNWNYEVAIKGFQSSMNGIPREAFVQF",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2khh",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DSGFSFGSK",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2khh",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2khh"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GSDGTREFLTFEVPLNDSGSAGLGVSVKGNRSKENHADLGIFVKSIINGGAASKDGRLRVNDQLIAVNGESLLGKANQEAMETLRRSMSTEGNKRGMIQLIVARRISRCNE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "MLAELYGSDPQEELII",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2koh"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "EYIKLKVIGQDSSEIHFKVKMTTHLKKLKESYCQRQGVPMNSLRFLFEGQRIADNHTPKELGMEEEDVIEVYQEQTGG",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DNEIEVIIVWEKK",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2las"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GHMAPNLAGAVEFNDVKTLLREWITTISDPMEEDILQVVKYCTDLIEEKDLEKLDLVIKYMKRLMQQSVESVWNMAFDFILDNVQVVLQQTYGSTLKVT",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GSHKKSFFDKKRSERKW",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2lsi"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GIDPFTMLRPRLCTMKKGPSGYGFNLHSDKSKPGQFIRSVDPDSPAEASGLRAQDRIVEVNGVCMEGKQHGDVVSAIRAGGDETKLLVVDRETDEFFKKCRVIPSQEHLNGPLPVPFTNGEIQKENSR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QDTRL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2m0v"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SMETLCQRLNVCQDKILTHYENDSTDLRDHIDYWKHMRLECAIYYKAREMGFKHINHQVVPTLAVSKNKALQAIELQLTLETIYNSQYSNEKWTLQDVSLEVYLTAPTGCIKKHGYTVEVQFDGDICNTMHYTNWTHIYICEEASVTVVEGQVDYYGLYYVHEGIRTYFVQFKDDAEKYSKNKVWEVHAGGQVILCPTSVF",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2nnu",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ATIDMNFQSDLLSIFEENLF",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2nnu",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2nnu"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GIDPFTGEAIAKFNFNGDTQVEMSFRKGERITLLRQVDENWYEGRIPGTSRQGIFPITYVDVIKRPL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "VPPPVPPPPS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2o9v"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SFPEEVLEHVFSFIQLDKDRNSVSLVCKSWYEIERWCRRKVFIGNCYAVSPATVIRRFPKVRSVELKGKPHFADFNLVPDGWGGYVYPWIEAMSSSYTWLEEIRLKRMVVTDDCLELIAKSFKNFKVLVLSSCEGFSTDGLAAIAATCRNLKELDLRESDVDDVSGHWLSHFPDTYTSLVSLNISCLASEVSFSALERLVTRCPNLKSLKLNRAVPLEKLATLLQRAPQLEELGTGGYTAEVRPDVYSGLSVALSGCKELRCLSGFWDAVPAYLPAVYSVCSRLTTLNLSYATVQSYDLVKLLCQCPKLQRLWVLDYIEDAGLEVLASTCKDLRELRVFPSEPFVMEPNVALTEQGLVSVSMGCPKLESVLYFCRQMTNAALITIARNRPNMTRFRLCIIEPKAPDYLTLEPLDIGFGAIVEHCKDLRRLSLSGLLTDKVFEYIGTYAKKMEMLSVAFAGDSDLGMHHVLSGCDSLRKLEIRDCPFGDKALLANASKLETMRSLWMSSCSVSFGACKLLGQKMPKLNVEVIDERGAPDSRPESCPVERVFIYRTVAGPRFDMPGFVWNMDQ",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QVVGWPPVRNYRK",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2p1o"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ASPISTIQPKANFDAQQFAGTWLLVAVGSAARFLQEQGHRAEATTLHVAPQGTAMAVSTFRKLDGICWQVRQLYGDTGVLGRFLLQARGARGAVHVVVAETDYQSFAVLYLERAGQLSVKLYARSLPVSDSVLSGFEQRVQEAHLTEDQIFYFPKYGFCEAADQFHVLDEVRR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LRYDSTAERLY",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2qos"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "NTIQQLMMILNSASDQPSENLISYFNNCTVNPKESILKRVKDIGYIFKEKFAKAVGQGCVEIGSQRYKLGVRLYYRVMESMLKSEEERLSIQNFSKLLNDNIFHMSLLACALEVVMATYSRSTGTDLSFPWILNVLNLKAFDFYKVIESFIKAEGNLTREMIKHLERCEHRIMESLAWLSDSPLFDLIKQSKDKSTSLSLFYKKVYRLAYLRLNTLCERLLSEHPELEHIIWTLFQHTLQNEYELMRDRHLDQIMMCSMYGICKVKNIDLKFKIIVTAYKDLPHAVQETFKRVLIKEEEYDSIIVFYNSVFMQRLKTNILQYASTRPPTLSPIPHI",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PPTLHELYDL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2r7g"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GSMGTAGKWVLCNYDFQARNSSELSVKQRDVLEVLDDSRKWWKVRDPAGQEGYVPYNILTPYPG",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PPVPNPDYEPIR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2rol"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "AGWQSYVDNLMCDGCCQEAAIVGYCDAKYVWAATAGGVFQSITPVEIDMIVGKDREGFFTNGLTLGAKKCSVIRDSLYVDGDCTMDIRTKSQGGEPTYNVAVGRAGRVLVFVMGKEGVHGGGLNKKAYSMAKYLRDSGF",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GPPPPPGPPPPPG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2v8c"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "RDAFDTLFDHAPDKLNVVKKTLITFVNKHLNKLNLEVTELETQFADGVYLVLLMGLLEGYFVPLHSFFLTPDSFEQKVLNVSFAFELMQDGGLEKPKPRPEDIVNCDLKSTLRVLYNLFTKYRNVE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2vzg",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "NLSELDRLLLELNAV",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2vzg",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2vzg"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MLRGLSEDTLEQLYALGFNQYQAGKWDDAQKIFQALCMLDHYDARYFLGLGACRQSLGLYEQALQSYSYGALMDINEPRFPFHAAECHLQLGDLDGAESGFYSARALAAAQPAHEALAARAGAMLEAVTARKD",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RVELNAPR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2xcb"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MDPGTVLEISRSLKKRMQDILKKDNANNLEGRPATGKIENVEEISDILMSKALQESLLDEGILDEIKGWLEPLPDKSMPNIKIRKRLLDVLKTMKIHKEHLVTSGVGKIVYFYSINPKESKEVRASAKALVQKWTNEV",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/2xpn",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SHMFFEIFGTGEEYRYVLES",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/2xpn",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2xpn"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GSRSKRDNNFYSVEIGDSTFTVLKRYQNLKPIGSGAQGIVCAAYDAILERNVAIKKLSRPFQNQTHAKRAYRELVLMKCVNHKNIIGLLNVFTPQKSLEEFQDVYIVMELMDANLCQVIQMELDHERMSYLLYQMLCGIKHLHSAGIIHRDLKPSNIVVKSDCTLKILDFGLRYYRAPEVILGMGYKENVDIWSVGCIMGEMIKGGVLFPGTDHIDQWNKVIEQLGTPCPEFMKKLQPTVRTYVENRPKYAGYSFEKLFPDVLFPADSEHNKLKASQARDLLSKMLVIDASKRISVDEALQHPYINVWYDPSEAEAPPPKIPDKQLDEREHTIEEWKELIYKEVMDLEH",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RPSRDHLYLPLE",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2xrw"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SAPIPDLKVFEREGVQLNLSFIRPPENPALLLITITATNFSEGDVTHFICQAAVPKSLQLQLQAPSGNTVPARGGLPITQLFRILNPNKAPLRLKLRLTYDHFHQSVQEIFEVNNLPVESWQ",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EWGPWV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2ymt"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "THDLRVSLEEIYSGCTKKMKISHKRLNPDGKSIRNEDKILTIEVKKGWKEGTKITFPKEGDQTSNNIPADIVFVLKDKPHNIFKRDGSDVIYPARISLREALCGCTVNVPTLDGRTIPVVFKDVIRPGMRRKVPGEGLPLPKTPEKRGDLIIEFEVIFPERIPQTSRTVLEQVLPI",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GPTIEEV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3agy"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LTPDQQTLLHFIMDSYNKQRMPQEITNKILKEEFSAEENFLILTEMATNHVQVLVEFTKKLPGFQTLDHEDQIALLKGSAVEAMFLRSAEIFNKKGHSDLLEERIRNSGISDEYITPMFSFYKSIGELKMTQEEYALLTAIVILSPDRQYIKDREAVEKLQEPLLDVLQKLCKIHQPENPQHFACLLGRLTELRTFNHHHAEMLMSWRVNDHKFTPLLCEIWDV",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ERHKILHRLLQ",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3bej"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "EDAGLVAEAEAVAAGWMLDFLCLSLCRAFRDGRSEDFRRTRNSAEAIIHGLSSLTACQLRTIYICQFLTRIAAGKTLDAQFENDERITPLESALMIWGSIEKEHDKLHEEIQNLIKIQAIAVCMENGNFKEAEEVFERIFHMPFKSKLLMIISQKDTFHSFFQHFSYNHMMEKIKSYVNYVLSEKSSTFLMKAAAKVVESKR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SHFNLAPLGRRRV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3bqo"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PNYALKFTLAGHTKAVSSVKFSPNGEWLASSSADKLIKIWGAYDGKFEKTISGHKLGISDVAWSSDSNLLVSASDDKTLKIWDVSSGKCLKTLKGHSNYVFCCNFNPQSNLIVSGSFDESVRIWDVKTGKCLKTLPAHSDPVSAVHFNRDGSLIVSSSYDGLCRIWDTASGQCLKTLIDDDNPPVSFVKFSPNGKYILAATLDNTLKLWDYSKGKCLKTYTGHKNEKYCIFANFSVTGGKWIVSGSEDNLVYIWNLQTKEIVQKLQGHTDVVISTACHPTENIIASAALENDKTIKLWKS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ARAEVH",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3emh"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LYFQSMPEGLEELLSAPPPDLGAQRRHGWNPKDCSENIEVKEGGLYFERRPVAQSTDGARGKRGYSRGLHAWEISWPLEQRGTHAVVGVATALAPLQTDHYAALLGSNSESWGWDIGRGKLYHQSKGPGAPQYPAGTQGEQLEVPERLLVVLDMEEGTLGYAIGGTYLGPAFRGLKGRTLYPAVSAVWGQCQVRIRYLGE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DINNNNN",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3emw"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MESADLRALAKHLYDSYIKSFPLTKAKARAILTGKTTDKSPFVIYDMNSLMMGEDKIKEVAIRIFQGCQFRSVEAVQEITEYAKSIPGFVNLDLNDQVTLLKYGVHEIIYTMLASLMNKDGVLISEGQGFMTREFLKSLRKPFGDFMEPKFEFAVKFNALELDDSDLAIFIAVIILSGDRPGLLNVKPIEDIQDNLLQALELQLKLNHPESSQLFAKLLQKMTDLRQIVTEHVQLLQVIKKTETDMSLHPLLQEIYKDLY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/3et3",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "HSSLTERHKILHRLLQ",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/3et3",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3et3"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PDIAQLKGLSPSQRQAYAVQLKNRGNHFFTAKNFNAIKYYQYAIELDPNEPVFYSNISACYISTGDLEKVIEFTTKALEIKPDHSKALLRRASANESLGNFTDAMFDLSVLSPMLERNLNKQAMKVLNENLSQVLPSNTSLASFFGIFDSHLEVSSVNTSSNYDTAYALLSDALQRLYSATDEGYLVANDLLTKSTDMYHSLLSTVDDPLRENAALALCYTGIFHFLKNNLLDAQVLLQESINLHPTPNSYIFLALTLADKENSQEFFKFFQKAVDLNPEYPPTYYHRGQMYFILQDYKNAKEDFQKAQSLNPENVYPYIQLACLLYKQGKFTESEAFFNETKLKFPTLPEVPTFFAEILTDRGDFDTAIKQYDIAKRLEEVQEKIHVGIGPLIGKATILARQSSQLDEEKFNAAIKLLTKACELDPRSEQAKIGLAQLKLQMEKIDEAIELFEDSAILAMDEKLQATTFAEAAKIQKRLRAD",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "MEEVD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3fp2"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "EPAMEPETLEARINRATNPLNKELDWASINGFCEQLNEDFEGPPLATRLLAHKIQSPQEWEAIQALTVLETCMKSCGKRFHDEVGKFRFLNELIKVVSPKYLGSRTSEKVKNKILELLYSWTVGLPEEVKIAEAYQMLKKQGIVKS",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/3g2s",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GFSDDVPMVIA",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/3g2s",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3g2s"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GGYVAPKAVWLPAVKAKGLEISGTFTHRQGHIYMEMNFTNKALQHMTDFAIQFNKNSFGVIPSTPLAIHTPLMPNQSIDVSLPLNTLGPVMKMEPLNNLQVAVKNNIDVFYFSCLIPLNVLFVEDGKMERQVFLATWKDIPNENELQFQIKECHLNADTVSSKLQNNNVYTIAKRNVEGQDMLYQSLKLTNGIWILAELRIQPGNPNYTLSLKCRAPEVSQYIYQVYDSILKN",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "YFPTDERSWVYSPLH",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3h1z"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SAEGYQYRALYDYKKEREEDIDLHLGDILTVNKGSLVALGFSDGQEARPEEIGWLNGYNETTGERGDFPGTYVEYIGRKKI",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KRPLPPLPS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3i5r"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "AVSESQLKKMVSKYKYRDLTVRETVNVITLYKDLKPVLDSYGTGSRELMNLTGTIPVPYRGNTYNIPICLWLLDTYPYNPPICFVKPTSSMTIKTGKHVDANGKIYLPYLHEWKHPQSDLLGLIQVMIVVFGDEPPVFSRP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PTPSAPVPL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3obq"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HPICEVSKVASHLEVNCDKRQLTALPPDLPKDTTILHLSENLLYTFSLATLMPYTRLTQLNLDRCELTKLQVDGTLPVLGTLDLSHNQLQSLPLLGQTLPALTVLDVSFNRLTSLPLGALRGLGELQELYLKGNELKTLPPGLLTPTPKLEKLSLANNQLTELPAGLLNGLENLDTLLLQENSLYTIPKGFFGSHLLPFAFLHGNPWLCNCEILYFRRWLQDNAENVYVWKQGVDVKAMTSNVASVQCDNSDKFPVYKYPGKGCPLVPR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "CTERMALHNLC",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3p72"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "THADSLNNLANIKREQGNIEEAVRLYRKALEVFPEFAAAHSNLASVLQQQGKLQEALMHYKEAIRISPTFADAYSNMGNTLKEMQDVQGALQCYTRAIQINPAFADAHSNLASIHKDSGNIPEAIASYRTALKLKPDFPDAYCNLAHCLQIVCDWTDYDERMKKLVSIVADQLEKNRLPSVHPHHSMLYPLSHGFRKAIAERHGNLCLDKINVLHKPPYEHPKDLKLSDGRLRVGYVSSDFGNHPTSHLMQSIPGMHNPDKFEVFCYALSPDDGTNFRVKVMAEANHFIDLSQIPCNGKAADRIHQDGIHILVNMNGYTKGARNELFALRPAPIQAMWLGYPGTSGALFMDYIITDQETSPAEVAEQYSEKLAYMPHTFFIGDHANMFPHLKKKAVIDFKIYDNRIVLNGIDLKAFLDSLPDVKIVKMLNMPVIPMNTIAEAVIEMINRGQIQITINGFSISNGLATTQINNKAATGEEVPRTIIVTTRSQYGLPEDAIVYCNFNQLYKIDPSTLQMWANILKRVPNSVLWLLRFPAVGEPNIQQYAQNMGLPQNRIIFSPVAPKEEHVRRGQLADVCLDTPLCNGHTTGMDVLWAGTPMVTMPGETLASRVAASQLTCLGCLELIAKNRQEYEDIAVKLGTDLEYLKKVRGKVWKQRISSPLFNTKQYTMELERLYLQMWEHYAAGNKPDHMIK",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/3pe4",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "YPGGSTPVSSANMM",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/3pe4",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3pe4"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HMIEVVVNDRLGKKVRVKCLGEDSVGDFKKVLSLQIGTQPNKIVLQKGGSVLKDHISLEDYEVHDQTNLELYYL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LSIEETNEIREKLGMKPI",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3plu"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKISVPEAVVNWLFKVIQPIYNDGRTTFHDSLALLDNFHSLRPRTRVFTHSDGTPQLLLSIYGTISTGEDGSSPHSIPVIMWVPSMYPVKPPFISINLENFDMNTISSSLPIQEYIDSNGWIALPILHAWDPAAMNLIMVVQELMSLLHEPPQDQA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QVPSDPYN",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3r42"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "VVGGDECNINEHPFLVALYTSASSTIHCAGALINREWVLTAAHCDRRNIRIKLGMHSKNIRNEDEQIRVPRGKYFCLNTKFPNGLDKDIMLIRLRRPVTYSTHIAPVSLPSRSRGVGSRCRIMGWGKISTTTYPDVPHCTNIFIVKHKWCEPLYPWVPADSRTLCAGILKGGRDTCHGDSGGPLICNGEMHGIVAGGSEPCGQHLKPAVYTKVFDYNNWIQSIIAGNRTVTCPP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "IAAWYLR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3s9c"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SGPSCKHCKDDVNRLCRVCACHLCGGRQDPDKQLMCDECDMAFHIYCLDPPLSSVPSEDEWYCPECR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ARTKQTA",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3shb"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "RPNRLIVDEAINEDNSVVSLSQPKMDELQLFRGDTVLLKGKKRREAVCIVLSDDTCSDEKIRMNRVVRNNLRVRLGDVISIQPCPDVKYGKRIHVLPIDDTGNLFEVYLKPYFLEAYRPIRKGDIFLVRGGMRAVEFKVVETDPSPYCIVAPDTVIHCEG",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "VTLRRRMLAAAAERRLQK",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3tiw"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LSVHQLAAQGEMLYLATRIEQENVINHTDEEGFTPLMWAAAHGQIAVVEFLLQNGADPQLLGKGRESALSLACSKGYTDIVKMLLDCGVDVNEYDWNGGTPLLYAVHGNHVKCVKMLLESGADPTIETDSGYNSMDLAVALGYRSVQQVIESHLLKLL",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/3v2o",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LPTLPKLPSLS",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/3v2o",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3v2o"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SHMGLYELSASNFELHVAQGDHFIKFFAPWCGHAKALAPTWEQLALGLEHSETVKIGKVDCTQHYELCSGNQVRGYPTLLWFRDGKKVDQYKGKRDLESLREYVESQLQ",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/3wgx",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "HGEVCPA",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/3wgx",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3wgx"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HHTDPIRIELPTLIAKLNAQSKLALEQAASLCIERQHPEVTLEHYLDVLLDNPLSDVRLVLKQAGLEVDQVKQAIASTYSREQVTYPAFSPLLVELLQEAWLLSSTELEQAELRSGAIFLAALTRADRYLSFKLISLFEGINRENLKKHFAMILSDSAET",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QGSLLDEIMAQTRC",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "3zrj"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "TVFYTSIDIGSRYIKGLVLGKWEALAFSSVKSRGLDEGEIKDAIAFKESVNTLLKELEEQLQKSLRSDFVISFSSVSFEREDTVIERDFGEEKRSITLDILSEMQSEALEKLKENGKTPLHIFSKRYLLDDERIVFNPLDMKASKIAIEYTSIVVPLKVYEMFYNFLQDTVKSPFQLKSSLVSTAEGVLTTPEKDRGVVVVNLGYNFTGLIAYKNGVPIKISYVPVGMKHVIKDVSAVLDTSFEESERLIITHGNAVYNDLKEEEIQYRGLDGNTIKTTTAKKLSVIIHARLREIMSKSKKFFREVEAKIPGGVVLTGGGAKIPRINELATEVFKSPVRTGCYANSDRPSIINADEVANDPSFAAAFGNVFA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DIPAIYRYGLEGLL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4a2a"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GFFTSIGQMTDLIHTEKDLVTSLKDYIKAEEDKLEQIKKWAEKLDRLTSTATKDPEGFVGHPVNAFKLMKRLNTEWSELENLVLKDMSDGFISNLTIQRQYFPNDEDQVGAAKALLRLQDTYNLDTDTISKGNLPGVKHKSFLTAEDCFELGKVAYTEADYYHTELWMEQALRQLDEGEISTIDKVSVLDYLSYAVYQQGDLDKALLLTKKLLELDPEHQRANGNLKYFEYIMAKE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PPGPPGPPG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4bt9"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MTDKIAVLLGGTSAEREVSLNSGAAVLAGLREGGIDAYPVDPKEVDVTQLKSMGFQKVFIALHGRGGEDGTLQGMLELMGLPYTGSGVMASALSMDKLRSKLLWQGAGLPVAPWVALTRAEFEKGLSDKQLAEISALGLPVIVKPSREGSSVGMSKVVAENALQDALRLAFQHDEEVLIEKWLSGPEFTVAILGEEILPSIRIQPSGTFYDYEAKYLSDETQYFCPAGLEASQEANLQALVLKAWTTLGCKGWGRIDVMLDSDGQFYLLEANTSPGMTSHSLVPMAARQAGMSFSQLVVRILELAD",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4c5a",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ENLYFQGA",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4c5a",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4c5a"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SVKEFLAKAKEDFLKKWETPSQNTAQLDQFDRIKTLGTGSFGRVMLVKHKESGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLVKLEFSFKDNSNLYMVMEYVAGGEMFSHLRRIGRFSEPHARFYAAQIVLTFEYLHSLDLIYRDLKPENLLIDQQGYIQVTDFGFAKRVKGRTWTLCGTPEYLAPEIILSKGYNKAVDWWALGVLIYEMAAGYPPFFADQPIQIYEKIVSGKVRFPSHFSSDLKDLLRNLLQVDLTKRFGNLKNGVNDIKNHKWFATTDWIAIYQRKVEAPFIPKFKGPGDTSNFDDYEEEEIAVSINEKCGKEFTEF",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4dg3",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TTYADFIASGRTGRRNAIH",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4dg3",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4dg3"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PQITLWKRPLVTIRIGGQLKEALLNTGADDTVLEEMNLPGKWKPKMIGGIGGFIKVRQYDQIPVEILGHKAIGTVLVGPTPVNIIGRNLLTQIGMTLNFPQITLWKRPLVTIRIGGQLKEALLNTGADDTVLEEMNLPGKWKPKMIGGIGGFIKVRQYDQIPVEILGHKAIGTVLVGPTPVNIIGRNLLTQIGMTLNF",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "AETFYVD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4ep2"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "VSHEQFRAALQLVVDPGDPRSYLDNFIKIGEGSTGIVCIATVRSSGKLVAVKKMDLRKQQRRELLFNEVVIMRDYQHENVVEMYNSYLVGDELWVVMEFLEGGALTDIVTHTRMNEEQIAAVCLAVLQALSVLHAQGVIHRDIKSDSILLTHDGRVKLSDFGFCAQVSKEVPRRKSLVGTPYWMAPELISRLPYGPEVDIWSLGIMVIEMVDGEPPYFNEPPLKAMKMIRDNLPPRLKNLHKVSPSLKGFLDRLLVRDPAQRATAAELLKHPFLAKAGPPASIVPLMRQNRT",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4fii",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RPKPLV",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4fii",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4fii"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GLKAAQKTLFPLRSIDDVVRLFAAELGREEPDLVLLSLVLGFVEHFLAVNRVGLTYFPVADLSIIAALYARFTAQIRGAVDLSLYPREGGVSSRELVKKVSDVIWNSLSRSYFKDRAHIQSLFSFITGTKLDSSGVAFAVVGACQALGLRDVHLALSEDHAWVVFGPNGEQTAEVTWHGKGNEDRRGQTVNAGVAERSWLYLKGSYMRCDRKMEVAFMVCAINPSIDLHTDSLELLQLQQKLLWLLYDLGHLERYPMALGNLADLEELEPTPGRPDPLTLYHKGIASAKTYYRDEHIYPYMYLAGYHCRNRNVREALQAWADTATVIQDYNYCREDEEIYKEFFEVANDVIPNLLKEAASLLEAGSQGSALQDPECFAHLLRFYDGICKWEEGSPTPVLHVGWATFLVQSLGRFEGQVRQKVRIVSVPVLTFQSEKMKGMKELLVATKINSSAIKLQLTAQSQVQMK",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SARWRFPARPGT",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4gq6"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "YEKVRIYRMDGSYRSVELKHGNNTTVQQIMEGMRLSQETQQYFTIWICSENLSLQLKPYHKPLQHVRDWPEILAELTNLDPQRETPQLFLRRDVRLPLEVEKQIEDPLAILILFDEARYNLLKGFYTAPDAKLITLASLLLQIVYGNYESKKHKQGFLNEENLKSIVPVTKLKSKAPHWTNRILHEYKNLSTSEGVSKEMHHLQRMFLQNCWEIPTYGAAFFTGQIFTKASPSNHKVIPVYVGVNIKGLHLLNMETKALLISLKYGCFMWQLGDTDTCFQIHSMENKMSFIVHTKQAGLVVKLLMKLNGQL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RRDYF",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4hdq"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "QSKPWNRYRLPTTLLPDSYNVTLRPYLTPNADGLYIFKGKSIVRFLCQEPTDVIIIHSKKLNYTTQGHMVVLRGVGDSQVPEIDRTELVELTEYLVVHLKGSLQPGHMYEMESEFQGELADDLAGFYRSEYMEGNVKKVLATTQMQSTDARKSFPCFDEPAMKATFNITLIHPNNLTALSNMPPKGSSTPLAEDPNWSVTEFETTPVMSTYLLAYIVSEFQSVNETAQNGVLIRIWARPNAIAEGHGMYALNVTGPILNFFANHYNTSYPLPKSDQIALPDFNAGAMENWGLVTYRENALLFDPQSSSISNKERVVTVIAHELAHQWFGNLVTLAWWNDLWLNEGFASYVEYLGADHAEPTWNLKDLIVPGDVYRVMAVDALASSHPLTTPAEEVNTPAQISEMFDSISYSKGASVIRMLSNFLTEDLFKEGLASYLHAFAYQNTTYLDLWEHLQKAVDAQTSIRLPDTVRAIMDRWTLQMGFPVITVDTKTGNISQKHFLLDSESNVTRSSAFDYLWIVPISSIKNGVMQDHYWLRDVSQAQNDLFKTASDDWVLLNVNVTGYFQVNYDEDNWRMIQHQLQTNLSVIPVINRAQVIYDSFNLATAHMVPVTLALDNTLFLNGEKEYMPWQAALSSLSYFSLMFDRSEVYGPMKKYLRKQVEPLFQHFETLTKNWTERPENLMDQYSEINAISTACSNGLPQCENLAKTLFDQWMSDPENNPIHPNLRSTIYCNAIAQGGQDQWDFAWGQLQQAQLVNEADKLRSALACSNEVWLLNRYLGYTLNPDLIRKQDATSTINSIASNVIGQPLAWDFVQSNWKKLFQDYGGGSFSFSNLIQGVTRRFSSEFELQQLEQFKKNNMDVGFGSGTRALEQALEKTKANIKWVKENKEVVLNWFIEHSS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RPKPQQFFGLM",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4hom"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "KRVLIVDDAAFMRMMLKDIITKAGYEVAGEATNGREAVEKYKELKPDIVTMDITMPEMNGIDAIKEIMKIDPNAKIIVCSAMGQQAMVIEAIKAGAKDFIVKPFQPSRVVEALNKV",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DVLSQEEINQLIEALM",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4iga"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GAMEDPFFVVKGEVQKAVNTAQGLFQRWTELLQDPSTATREEIDWTTNELRNNLRSIEWDLEDLDETISIVEANPRKFNLDATELSIRKAFITSTRQVVRDMKDQMST",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4j2c",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "AHGMLKLYYGLS",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4j2c",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4j2c"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MAMLTKFESRSSRAKGVAFHPTQPWILTSLHNGRIQLWDYRMGTLLDRFDGHDGPVRGIAFHPTQPIFVSGGDDYKVNVWNYKSRKLLFSLCGHMDYVRVCTFHHEYPWILSCSDDQTIRIWNWQSRNCIAILTGHSHYVMCAAFHPSEDLIVSASLDQTVRVWDISGLRADAIVKFVLEGHDRGVNWCAFHPTLPLILSAGDDRLVKLWRMTASKAWEVDTCRGHFNNVSCCLFHPHQELILSASEDKTIRVWDLNRRTAVQTFRRANDRFWFITVHPKLNLFAAAHDSGVMVFKLE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LKTKLL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4j8b"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TTTTTTT",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HMLELPHEKDKPVAEPIPICSFCLGTKEQNREKKPEELISCADCGNSGHPSCLKFSPELTVRVKALRWQCIECKTCSSCRDQGKNADNMLFCDSCDRGFHMECCDPPLTRMPKGMWICQICRPRKK",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4lk9",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ARTKQTARKSTGG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4lk9",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4lk9"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GGRLVVFPNGTRKELSADGQTVKVMFFNGDVKHTMPDQRVIYYYAEAQTTHITYPDGMEVLQFPNNQTEKHFPDGRKEITFPDQTVKTLHPDGREESVLTDGTIIQLNPDGSKVIQFNTGQREIHTADFKRREYPDGTVKTVYSDGRQETQYPTG",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DLSPRPSPNPHP",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4lzf"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GMRLEKDRFSVNLDVKHFSPEELKVKVLGDVIEVHGKHEERQDEHGFISREFHRKYRIPADVDPLTITSSLSSDGVLTVNGPRKQVS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GERTIPITRE",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4m5s"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SKKENLLAEKVEQLMEWSSRRSIFRMNGDKFRKFIKAPPRNYSMIVMFTALQPQRQCSVSRQANEEYQILANSWRYSSAFSNKLFFSMVDYDEGTDVFQQLNMNSAPTFMHFPPKGRPKRADTFDLQRIGFAAEQLAKWIADRTDVHIRVFRL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KFHCAN",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4m91"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLIPAPPLSKVPLQQNFQDNQFHGKWYVVGVAGNKSLREDKDPWKMYATIYELKEDKSYNVTSVGFGTKKCHYKIRTFVPGSQPGEFTLGRIKSRPGRTSALVRVVSTNYNQHAMVFFKVVQQNRESFNITLYGRTKELTSELKENFIRFSKSLGLPENHIVFPVPIDQCID",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KLVFFAEDVGSNK",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4mvi"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SNTVMKNCNYKRKRRERDWDCNTKKDVCIPDRRYQLCMKELTNLVITFRKLYLKRKLIYDAAVEGDLLLKLNNYRYNKDFCKDIRWSLGDFGDIIMGTDMEGIGYSKVVENNLRSIFGTDEKAQQRRKQWWNESKAQIWTAMMYSVKKRLKICKLNVAVNIEPQIYRWIREWGRDYVSELPTEVQKLKEKCDGKINYTDKKVCKVPPCQNACKSYDQWITRKKNQWDVLSNKFISVKNAEQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QLDFEDVWNSSY",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4nuu"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GAMGKVTHSIHIEKSDTAADTYGFSLSSVEEDGIRRLYVNSVKETGLASKKGLKAGDEILEINNRAADALNSSMMEDFFSQPSVGLLVRTYPEL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "NKDKEYYV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4nxr"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "NFIIPKKEIHTVPDMGKWKRSQAYADYIGFILTLNEGVKGKKLTFEYRVSEAIEKLVALLNTLDRWIDETPPVDQPSRFGNKAYRTWYAKLDEEAENLVATVVPTHLAAAVPEVAVYLKESVGNSTRIDYGTGHEAAFAAFLCCLCKIGVLRVDDQIAIVFKVFNRYLEVMRKLQKTYRMEPAGGVWGLDDFQFLPFIWGSSQLIDHPYLEPRHFVDEKAVNENHKDYMFLECILFITEMKTGPFAEHSNQLWNISAVPSWSKVNQGLIRMYKAECLEKFPVIQHFKFGSLLPIHPVTS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PDYFL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4ny3"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MKVGQDKVVTIRYTLQVEGEVLDQGELSYLHGHRNLIPGLEEALEGREEGEAFQAHVPAEKAYGPHDPEGVQVVPLSAFPEDAEVVPGAQFYAQDNPMPLTVVAVEGEEVTVDFNHPLAGKDLDFQVEVVKVREATPEELLHGHAHPSGHHHH",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "HKYNNYEG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4odk"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "KGPVPFSHCLPTEKLQRCEKIGEGVFGEVFQTIADHTPVAIKIIAIEGPDLVNGSHQKTFEEILPEIIISKELSLLSGEVCNRTEGFIGLNSVHCVQGSYPPLLLKAWDHYNSTKGSANDRPDFFKDDQLFIVLEFEFGGIDLEQMRTKLSSLATAKSILHQLTASLAVAEASLRFEHRDLHWGNVLLKKTSLKKLHYTLNGKSSTIPSCGLQVSIIDYTLSRLERDGIVVFCDVSMDEDLFTGDGDYQFDIYRLMKKENNNRWGEYHPYSNVLWLHYLTDKMLKQMTFKTKCNTPAMKQIKRKIQEFHRTMLNFSSATDLLCQHSLFK",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ARTKQTA",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4ouc"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ERAFLVAREELASALRRDSGQAFSLEQLRPLLASSLPLAARYLQLDAARLVRCNAHGEPRNYLNTLSTALNILEKYGRNLLSPQRPRYWRGVKFNNPVFRSTVDAVQGGRDVLRLYGYTEEQPDGLSFPEGQEEPDEHQVATVTLEVLLLRTELSLLLQNTHPRQQALEQLLE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EDMYRAADEIEKE",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4oyk"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "FPLTSMDKAFITVLEMTPVLGTEIINYRDGMGRVLAQDVYAKDNLPPFPASVKDGYAVRAADGPGDRFIIGESQAGEQPTQTVMPGQVMRVTTGAPIPCGADAVVQVEDTELIRESDDGTEELEVRILVQARPGQDIRPIGHDIKRGECVLAKGTHMGPSEIGLLATVGVTEVEVNKFPVVAVMSTGNELLNPEDDLLPGKIRDSNRSTLLATIQEHGYPTINLGIVGDNPDDLLNALNEGISRADVIITSGGDYLKQVLDIDLHAQIHFGRVFMKPGLPTTFATLDIDGVRKIIFALPGNPVSAVVTCNLFVVPALRKMQGILDPRPTIIKARLSCDVKLDPRPEYHRCILTWHHQEPLPWAQSTSRLMSMRSANGLLMLPPKTEQYVELHKGEVVDVMVIGL",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4pd1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DFSIVGSLPR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4pd1",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4pd1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GPHSLRYFVTAVSRPGLGEPRYMEVGYVDDTEFVRFDSDAENPRYEPRARWMEQEGPEYWERETQKAKGNEQSFRVDLRTLLGYYNQSKGGSHTIQVISGCEVGSDGRLLRGYQQYAYDGCDYIALNEDLKTWTAADMAALITKHKWEQAGEAERLRAYLEGTCVEWLRRYLKNGNATLLRTDSPKAHVTHHSRPEDKVTLRCWALGFYPADITLTWQLNGEELIQDMELVETRPAGDGTFQKWASVVVPLGKEQYYTCHVYHQGLPEPLTLRW",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4pge",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "FAPGNYPAW",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4pge",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4pge"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SRERLVYEVRQKCRNIEDICISCGSLNVTLEHPLFVGGMCQNCKNCFLECAYQYDDDGYQSYCTICCGGREVLMCDNNNCCRCFCVECVDLLVGPGAAQAAIKEDPWNCYMCGHKGTYGLLRRREDWPSRLQMFFA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ARTKQTA",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4qbr"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HIEGRVLLLDVTPLSLGIETMGGVMTTLIAKNTTIPTKHSQVFSTAEDNQSAVTIHVLQGERKRAADNKSLGQFNLDGINPAPRGMPQIEVTFDIDADGILHVSAKDKNSGKEQKITIKASSGLNEDEIQKMVRDAEANAEADRKFEELVQTRNQGDHLLHSTRKQVEEAGDKLPADDKTAIESALTALETALKGEDKAAIEAKMQELAQVSQKLMEIAQQQ",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "NRLLLT",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4r5i"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LAPLPPLPAQFKSIQHHLRTAQEHDKRDPVVAYYCRLYAMQTGMKIDSKTPECRKFLSKLMDQLEALKKQLGDNEAITQEIVGCAHLENYALKMFLYADNEDRAGRFHKNMIKSFYTASLLIDVITVFGELTDENVKHRKYARWKATYIHNCLKNGETP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QDELSQRLARLRDQV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4txr"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PIVQNQMVHQCISPRTLNAWVKVVEEKAFSPEVIPMFSALSCGATPQDLNTMLNTVGGHQAAMQMLKETINEEAAEWDRLHPVHIAPGQMREPRGSDIAGTTSTLQEQIGWMTHNPPIPVGEIYKRWIILGLNKIVRMYSPTSILDIRQGPKEPFRDYVDRFYKTLRAEQASQEVKTETLLVQNANPDCKTILKALGPGATLEEMMTACQ",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SPSGVFTFG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4u0c"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "IAEELLRAGRLDDALKALQEQVRSQPSNATLRIFLFQLLAVMGQWARAQNQLKVVGELDASALPMVQTYSTAIDCEALRREVFAGRLTPVILGQPAEWIAPLLQALSLDAEGHGEAAQALREQAFDAAPAVPGRIGEAPFAWLADADTRLGPVLEVIVNGRYAWLPMSNLRSLKVEAPSDLRDLVWLPAELTLANGGATVALLPARYAETVEHGDDAARLGRKTEWLDSGLPVGQRLFVTDAGETALFDLRELDFEP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QKFIARNRAPRVQ",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4uqy"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PTPLPQLPSNVRDGENNVASTFLQAFFQLWDHDRLTLIPQFYDSETTFSVVFATDSPQDPASSSCSKFSRNLNILSPRHPSTLQRLFVGSNLIADLWKVLPATRHPSLDQTSQWLIDCHTFPHLADPTGMAPYAMGLMINVNGQCEEADISQNLYGTRTFSRCFILGPSKPGAPHPYRVLSDQLTLHTWKPQ",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QVNNPF",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4x2h"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GSQKERLLDELTLEGVARYMQSERCRRVICLVGAGISTSAGIPDFRSPSTGLYDNLEKYHLPYPEAIFEISYFKKHPEPFFALAKELYPGQFKPTICHYFMRLLKDKGLLLRCYTQNIDTLERIAGLEQEDLVEAHGTFYTSHCVSASCRHEYPLSWMKEKIFSEVTPKCEDCQSLVKPDIVFFGESLPARFFSCMQSDFLKVDLLLVMGTSLQVQPFASLISKAPLSTPRLLINKEKAGQSDPFLGGGMDFDSKKAYRDVAWLGECDQGCLALAELLGWKKELEDLVRREHASIDAQ",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PKKTG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4x3o"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MGFVYKEEHPFEKRRSEGEKIRKKYPDRVPVIVEKAPKARIGDLDKKKYLVPSDLTVGQFYFLIRKRIHLRAEDALFFFVNNVIPPTSATMGQLYQEHHEEDFFLYIAYSDESVYG",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SDDDFWVRVAP",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4xc2"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HMANLDRTDDLVYLNVMELVRAVLELKNELSQLPPEGYVVVVKNVGLTLRKLIGSVDDLLPSLPSSSRTEIEGTQKLLNKDLAELINKMRLAQQNAVTSLSEEAKRQMLTASHTLAVDAKNLLDAVDQAKVLANLAH",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4xek",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KTSAAAQLDELMAHLT",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4xek",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4xek"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HHHMLHLLEQIRAYCETCWEWQEAHEPGMDQDKNPMPAPVEHQICPAVCVLMKLSFDEEHRHAMNELGGLQAIAELLQVDCEMYGLTNDHYSITLRRYAGMALTNLTFGDVANKATLCSMKGCMRALVAQLKSESEDLQQVIASVLRNLSWRADVNSKKTLREVGSVKALMECALEVKKESTLKSVLSALWNLSAHCTENKADICAVDGALAFLVGTLTYRSQTNTLAIIESGGGILRNVSSLIATNEDHRQILRENNCLQTLLQHLKSHSLTIVSNACGTLWNLSARNPKDQEALWDMGAVSMLKNLIHSKHKMIAMGSAAALRNLMANRPAKYK",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LTGCGDIIAE",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4yje"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SPDMKLLAGASNWVNQSGSVAQFVFTPSPTQPQTYEVSGNYINNAQGTGCKGTPYPLSGAYYSGNQIISFSVVWSNASANCQSATGWTGYFDFSGSQAVLKTDWNLAFYSGSTPAIQQGQDDFMQSV",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/4z2o",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "VATVSESLLTE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/4z2o",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4z2o"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ENDSIAYFDGHKDSVFAIAQHPLYPNIVATGGSEGDADDAPGKGYVLDISSLNPIFEIDGHTDSINALTFTLPRGDFLVSGGMDGRMRVYAVSVPQNGALAQFKFLAESQETEEINWFAPCPSPDHPNTIALGASDGSVWVFTLDASDPSNPVQIVQSYFLHTGPCTAGAWSPDGLLLATVSEDESLHVYDVFGVAASKSLVTDNGQTVVSLTNVDQRFAVEGGLFSVAVSPTGAVVAVGGAGGQIKIVGLPRLAGTILASLQIQSDNIESLAFSPSAPILAAGSTDGSIAVFDTSRSFALRRHLRGAHAEDPVVKVEFVKSPPNAAMAGWLLTSCGMDGVVRRWDLRGGGLVKEWKGHRSGQEGGGVLGFVQGETGERIVTVGDDAVVLVFEA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ARRPARCYRYCK",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4zoz"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ASPERKAAVALRSLFTFVAARVVLEQLQGPGGPETTYNQQAYLDLMDFLGTPMKGDGGDEWMAAVMRKNHALALRLMEVREAYLDEFEWGKTMEMASRETREANTRLMRAAAM",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "WKEIKF",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5bs2"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PLIGEIGPETYSDYMSAGIPLAYIFAETAEERKELSDKLKPIAEAQRGVINFGTIDAKAFGAHAGNLNLKTDKFPAFAIQEVAKNQKFPFDQEKEITFEAIKAFVDDFVAGKIEPSIKSEPIPEKQEGPVTVVVAKNYNEIVLDDTKDVLIEFYAPWCGHCKALAPKYEELGALYAKSEFKDRVVIAKVDATANDVPDEIQGFPTIKLYPAGAKGQPVTYSGSRTVEDLIKFIAENGKYKAA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GKTKEGVLYVG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5crw"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "KTFKQRRTFEQRVEDVRLIREQHPTKIPVIIERYKGEKQLPVLDKTKFLVPDHVNMSELIKIIRRRLQLNANQAFFLLVNGHSMVSVSTPISEVYESEKDEDGFLYMVYASQETFGMKL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DAVFDIITDEEL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5d94"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PFEVVFDGAKEFADLIATASNLIDEAAFKFTEEGISMRAMDPSRVVLIDLNLPESIFSKYEVEEPETIGINMDQFKKILKRGKAKDTLILRKGDENFLEITFEGTAKRTFRLPLIDVEELELELPELPFTAKVVLLGEVLKEGIKDASLVSDAIKFIAKENEFTMKAEGETNEVEIRLTLEDEGLLDLEVEEETKSAYGIRYLSDMVKGIGKADEVILRFGNEMPLQMEYMIRDEGRLTFLLAPRVE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5dai",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KQRTLESWF",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5dai",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5dai"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSREEMTKNQVSLWCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLS",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5di8",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DCAWHLGELVWCT",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5di8",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5di8"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ADTQYILPNDIGVSSLDSREAFRLLSPTERLYAYHLSRAAWYGGLAVLLQTSPEAPYIYALLSRLFRAQDPDQLRQHALAEGLTEEEYQAFLVYAAGVYSNMGNYKSFGDTKFVPNLPKEKLERVILGSEAAQQHPEEVRGLWQTCGELMFSLEPRLRHLGLGKEGITTYFSGNCTMEDAKLAQDFLDSQNLSAYNTRLFKEVDGCGKPYYEVRLASVLGSEPSLDSEVTSKLKSYEFRGSPFQVTRGDYAPILQKVVEQLEKAKAYAANSHQGQMLAQYIESFTQGSIEAHKRGSRFWIQDKGPIVESYIGFIESYRDPFGSRGEFEGFVAVVNKAMSAKFERLVASAEQLLKELPWPPTFEKDKFLTPDFTSLDVLTFAGSGIPAGINIPNYDDLRQTEGFKNVSLGNVLAVAYATQREKLTFLEEDDKDLYILWKGPSFDVQVGLHALLGHGSGKLFVQDEKGAFNFDQETVINPETGEQIQSWYRCGETWDSKFSTIASSYEECRAESVGLYLSLHPQVLEIFGFEGADAEDVIYVNWLNMVRAGLLALEFYTPEAFNWRQAHMQARFVILRVLLEAGEGLVTITPTTGSDGRPDARVRLDRSKIRSVGKPALERFLRRLQVLKSTGDVAGGRALYEGYATVTDAPPESFLTLRDTVLLRKESRKLIVQPNTRLEGSDVQLLEYEASAAGLIRSFSERFPEDGPELEEILTQLATADARFW",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5e33",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "YGGFM",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5e33",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5e33"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "KNYTFRCLQMSSFANRSWSRTDSVVWLGDLQTHRWSNDSATISFTKPWSQGKLSNQQWEKLQHMFQVYRVSFTRDIQELVKMMDYPIEIQLSAGCEMYASESFLHVAFQGKYVVRFWGTSWQTVPGAPSWLDLPIKVLNADQGTSATVQMLLNDTCPLFVRGLLEAGKSDLEKQEKPVAWLSSVDGHRQLVCHVSGFYPKPVWVMWMRGDQEQQGTHRGDFLPNADETWYLQATLDVEAGEEAGLACRVKHSSLGGQDIILYW",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DFHHIREKGNHWKNFL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5efi"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "EVANPEHYIKHPLQNRWALWFFKNDKSKTWQANLRLISKFDTVEDFWALYNHIQLSSNLMPGCDYSLFKDGIEPMWEDEKNKRGGRWLITLNKQQRRSDLDRFWLETLLCLIGESFDDYSDDVCGAVVNVRAKGDKIAIWTTECENREAVTHIGRVYKERLGLPPKIVIGYQSHADTATKSGSTTKNRFVV",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KKRYDREFLLGFQF",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5ei3"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MAMDTFITRNFQTTIIQKAKNTMAEFSEDPELQPAMLFNICVHLEVCYVISDMNFLDEEGKSYTALEGQGKEQNLRPQYEVIEGMPRTIAWMVQRSLAQEHGIETPKYLADLFDYKTKRFIEVGITKGLADDYFWKKKEKLGNSMELMIFSYNQDYSLSNESSLDEEGKGRVLSRLTELQAELSLKNLWQVLIGEE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5fml",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LSNDISQGIKRQRMTVESM",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5fml",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5fml"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "MASKMFFINDETPWEELGNGIKRKVMTWSDDLMMVCVHFDKGAIGVAHKHDIHDQIAYVAAGSFEVEIEGQKRILKAGDAYRAVKNEMHGAVSLEDNSILIDTFNP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GSSHHHH",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5fpx"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "VPRGSHMSSGKTCPTSEVSPACYANQWETTFPPSDIKITGATWVQDNIYDVTLSYEAESLELENLTELKIIGLNSPTGGTKLVWSLNSKVYDIDNPAKWTTTLRVYTKSSADDCYVEMYPFQIQVDWCEAGASTDGCSAWKWPKSYDYDIGCDNMQDGVSRKHHPVYKWPKKCSSNC",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "SGLVPRGS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5fv6"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "VLDVEVYSSRSKVYVAVDGTTVLEDEAREQGRGIHVIVLNQATGHVMAKRVFDTYSPHEDEAMVLFLNMVAPGRVLICTVKDEGSFHLKDTAKALLRSLGSQAGPALGWRDTWAFVGRKGGPVFGEKHSKSPALSSWGDPVLLKTDVPLS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TPTPV",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5ggp"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "YPIINFTTAGATVQSYTNFIRAVRGRLTTGADVRHEIPVLPNRVGLPINQRFILVELSNHAELSVTLALDVTNAYVVGYRAGNSAYFFHPDNQEDAEAITHLFTDVQNRYTFAFGGNYDRLEQLAGNLRENIELGNGPLEEAISALYYYSTGGTQLPTLARSFIICIQMISEAARFQYIEGEMRTRIRYNRRSAPDPSVITLENSWGRLSTAIQESNQGAFASPIQLQRRNGSKFSVYDVSILIPIIALMVYRCA",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GFGLFD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5gu4"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "NWSVEDIVKGINSNNLESQLQATQAARKLLSREKQPPIDNIIRAGLIPKFVSFLGKTDCSPIQFESAWALTNIASGTSEQTKAVVDGGAIPAFISLLASPHAHISEQAVWALGNIAGDGSAFRDLVIKHGAIDPLLALLAVPDLSTLACGYLRNLTWTLSNLCRNKNPAPPLDAVEQILPTLVRLLHHNDPEVLADSCWAISYLTDGPNERIEMVVKKGVVPQLVKLLGATELPIVTPALRAIGNIVTGTDEQTQKVIDAGALAVFPSLLTNPKTNIQKEATWTMSNITAGRQDQIQQVVNHGLVPFLVGVLSKADFKTQKEAAWAITNYTSGGTVEQIVYLVHCGIIEPLMNLLSAKDTKIIQVILDAISNIFQAAEKLGETEKLSIMIEECGGLDKIEALQRHENESVYKASLNLIEKYFS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GPPKKRAKVD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5huw"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HRRVRLLKHGSDKPLGFYIRDGTSVRVTASGLEKQPGIFISRLVPGGLAESTGLLAVNDEVIEVNGIEVAGKTLDQVTDMMVANSSNLIITVKPAN",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PPEERLI",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5i7z"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DENILRNAVNLQVLKFHYPEIESIIDIASHVAVYQFDVGSQKWLKTSIEGTFFLVKDQRARVGYVILNRNSPENLYLFINHPSNVHLVDRYLIHRTENQHVVGLWMFDPNDMSRIFNIVKESLLR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "HSPAASNLPIPTFL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5j3q"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HMASVLELEMRGDSISEAKKRKVWNFQDWQITGLSARAGDKITVYVDVAEGDPTPTLLYKQSLTQHGGATSFQLKPGKNEITIPEINYESNGIPKDVIQGGDLFFTNYKSDSQKRAPKVRIEGASKYPVFILGKSDENEVMKELEAYVEKIKAEPKTTPNIFAVSSNKSLEFVQATYALDWYKKNNKTPKYTAEQWDQYIADAMGFWGFDNSKDVNSDFNFRIMPMVKNLSGGAFMNAGNGVIGIRPGNQDAILAANKGWGVAHELGHNFDTGGRTIVEVTNNMMPLFFESKYKTKTRITDQNIWENNTYPKVGLDDYSNNELYNKADSTHLAQLAPLWQLYLYDNTFYGKFERQFRERDFGNKNREDIYKSWVVAASDAMELDLTEFFARHGIRVDDKVKEDLAKYPKPDKKIYYLNDLAMNYKGDGFTENAKVSVSTSGSNGNIKLSFSVDDENKDNILGYEIRRDGKYVGFTSNDSFVDTKSNLDEDGVYVVTPYDRKLNTLNPIEVN",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TAPGG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5kds"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GSMAETKAKAEDLKMQGNKAMANKDYELAINKYTEAIKVLPTNAIYYANRAAAHSSLKEYDQAVKDAESAISIDPSYFRGYSRLGFAKYAQGKPEEALEAYKKVLDIEGDNATEAMKRDYESAKKKVEQSLNL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "PTVEEVD",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5lyn"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ILPIRFQEHLQLQNLGINPANIGFSTLTMESDKFICIREKVGEQAQVVIIDMNDPSNPIRRPISADSAIMNPASKVIALKAGKTLQIFNIEMKSKMKAHTMTDDVTFWKWISLNTVALVTDNAVYHWSMEGESQPVKMFDRHSSLAGCQIINYRTDAKQKWLLLTGISAQQNRVVGAMQLYSVDRKVSQPIEGHAASFAQFKMEGNAEESTLFCFAVRGQAGGKLHIIEVGTPPTGNQPFPKKAVDVFFPPEAQNDFPVAMQISEKHDVVFLITKYGYIHLYDLETGTCIYMNRISGETIFVTAPHEATAGIIGVNRKGQVLSVCVEEENIIPYITNVLQNPDLALRMAVRNNLAGAEEL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GDLLNLDL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5m5r"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SMKKERVITEFWDGKIIMVSPDDPKYALKKAEEVRELVDSELGFQQPSQTRTYMFVSNEKKIVGCLIAEPIREAYRVLAEPPSLHSRAWRCSTEPEPAICGISRIWVFALMRRKAIASRMVDAVRSSFMYGSVLTTEEIAFSDPTPDGKLFASTYCKVPDFLVYNFVS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GAKKDQYFL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5n22"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "HMVGQLSRGAIAAIMQKGDTNIKPILQVINIRPITTGNSPPRYRLLMSDGLNTLSSFMLATQLNPLVEEEQLSSNCVCQIHRFIVNTLKDGRRVVILMELEVLKSAEAVGVKIGNPVPYNE",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DNGIDDAYFLEA",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5n85"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LNLVSEQLLAANGLKHQDLFAILGQLAERRLDYGDLYFQSSYHESWVLEDRIIKDGSYNIDQGVGVRAISGEKTGFAYADQISLLALEQSAQAARTIVRDSGDGKVQTLGAVEHSPLYTSVDPLQSMSREEKLDILRRVDKVAREADKRVQEVTASLSGVYELILVAATDGTLAADVRPLVRLSVSVLVEEDGKRERGASGGGGRFGYEFFLADLDGEVRADAWAKEAVRMALVNLSAVAAPAGTMPVVLGAGWPGVLLHAAVGHGLEGDFNRRGTSVFSGQVGELVASELCTVVDDGTMVDRRGSVAIDDEGTPGQYNVLIENGILKGYMQDKLNARLMGMTPTGNGRRESYAHLPMPRMTNTYMLPGKSTPQEIIESVEYGIYAPNFGGGQVDITSDKFVFSTSEAYLIENGKVTKPVKGATLIGSGIETMQQISMVGNDLKLDNGVGVCGKEGQSLPVGVGQPTLKVDNLTVGGTA",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5njc",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "VLEDRI",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5njc",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5njc"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "AMGSLSRELVFLILQFLDEEKFKETVHKLEQESGFFFNMKYFEDEVHNGNWDEVEKYLSGFTKVDDNRYSMKIFFEIRKQKYLEALDKHDRPKAVDILVKDLKVFSTFNEELFKEITQLLTLENFRENEQLSKYGDTKSARAIMLVELKKLIEANPLFRDKLQFPTLRNSRLRTLINQSL",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TELRLGLPGS",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5nqv"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GPAKTMEEASKRSYQFWDTQPVPKLGEVVNTHGPVEPDKDNIRQEPYTLPQGFTWDALDLGDRGVLKELYTLLNENYVEDDDNMFRFDYSPEFLLWALRPPGWLPQWHCGVRVVSSRKLVGFISAIPANIHIYDTEKKMVEINFLCVHKKLRSKRVAPVLIREITRRVHLEGIFQAVYTAGVVLPKPVGTCRYWHRSLNPRKLIEVKFSHLSRNMTMQRTMKLYRLPETPKTAGLRPMETKDIPVVHQLLTRYLKQFHLTPVMSQEEVEHWFYPQENIIDTFVVENANGEVTDFLSFYTLPSTIMNHPTHKSLKAAYSFYNVHTQTPLLDLMSDALVLAKMKGFDVFNALDLMENKTFLEKLKFGIGDGNLQYYLYNWKCPSMGAEKVGLVLQ",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GCSVSKKK",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5o9u"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LSTPALAIPALDYNPWEAIQLPTTATILDMSFIDRHHGWLVGVNATLMETRDGGQTWEPRTLVLDHSDYRFNSVSFQGNEGWIVGEPPIMLHTTDGGQSWSQIPLDPKLPGSPRLIKALGNGSAEMITNVGAIYRTKDSGKNWQALVQEAIGVMRNLNRSPSGEYVAVSSRGSFYSTWEPGQTAWEPHNRTTSRRLHNMGFTPDGRLWMIVNGGKIAFSDPDNSENWGELLSPLRRNSVGFLDLAYRTPNEVWLAGGAGALLCSQDGGQTWQQDVDVKKVPSNFYKILFFSPDQGFILGQKGILLRYVTD",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "FPLDLA",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5oj5"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ITGTSTVGVGRGVLGDQKNINTTYSTYYYLQDNTRGNGIFTYDAKYRTTLPGSLWADADNQFFASYDAPAVDAHYYAGVTYDYYKNVHNRLSYDGNNAAIRSSVHYSQGYNNAFWNGSQMVYGDGDGQTFIPLSGGIDVVAHELTHAVTDYTAGLIYQNESGAINEAISDIFGTLVEFYANKNPDWEIGEDVYTPGISGDSLRSMSDPAKYGDPDHYSKRYTGTQDNGGVHINSGIINKAAYLISQGGTHYGVSVVGIGRDKLGKIFYRALTQYLTPTSNFSQLRAAAVQSATDLYGSTSQEVASVKQAFDAVGVK",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5onp",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GAIIG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5onp",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5onp"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "KIICRDVARGYENVPIPCVNGVDGEPCPEDYKYISENCETSTMNIDRNITHLQHCTCVDDCSSSNCLCGQLSIRCWYDKDGRLLQEFNKIEPPLIFECNQACSCWRNCKNRVVQSGIKVRLQLYRTAKMGWGVRALQTIPQGTFICEYVGELISDAEADVREDDSYLFDLDEVYCIDARYYGNISRFINHLCDPNIIPVRVFMLHQDLRFPRIAFFSSRDIRTGEELGFDYGDRFWDIKSKYFTCQCGSEKCKHSAEAIALEQS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TKQTARMST",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5t0k"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SLQIDIPDALSERDKVKFTVHTKTTLPTFQSPEFSVTRQHEDFVWLHDTLIETTDYAGLIIPPAPTKPDFDGPREKMQKLGEGEGSMTKEEFAKMKQELEAEYLAVFKKTVSSHEVFLQRLSSHPVLSKDRNFHVFLEYD",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5tgi",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "AVQFFKGKNGSADQVILVTQ",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5tgi",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5tgi"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SSLEEDREAVRREAERQAQAQLEKAKTKPVAFAVRTNVRYSAAQEDDVPVPGMAISFEAKDFLHVKEKFNNDWWIGRLVKEGCEIGFIPSPVKLENMRLQHEQRAKQHTPPYDVVPSMRPVVLVGPSLKGYEVTDMMQKALFDFLKHRFEGRISITRVTADISLAKSSLAEVQSEIERIFELARTLQLVVLDADTINHPAQLSKTSLAPIIVYVKISSPKVLQRLIKSRGKSQAKHLNVQMVAADKLAQCPPQESFDVILDENQLEDACEHLADYLEAYWKATHPPS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "CSPLECDLKGYLDWITQAE",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5v2p"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ATFISVQLKKTSEVDLAKPLVKFIQQTYPSGGEEQAQYCRAAEELSKLRRAAVGRPLDKHEGALETLLRYYDQICSIEPKFPFSENQICLTFTWKDAFDKGSLFGGSVKLALASLGYEKSCVLFNCAALASQIAAEQNLDNDEGLKIAAKHYQFASGAFLHIKETVLSALSREPTVDISPDTVGTLSLIMLAQAQEVFFLKATRDKMKDAIIAKLANQAADYFGDAFKQCQYKDTLPKEVFPVLAAKHCIMQANAEYHQSILAKQQKKFGEEIARLQHAAELIKTVASRYDEYVNVKDFSDKINRALAAAKKDNDFIYHDRVPDLKDLDPIGKATLVKSTPVNVPISQKFTDLFEKM",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5v3r",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EDDDIKQLAAWAT",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5v3r",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5v3r"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "RLIYTAGGYFRQSLSYLEAYNPSDGTWLRLADLQVPRSGLAGCVVGGLLYAVGGRNNSPDGNTDSSALDCYNPMTNQWSPCAPMSVPRNRIGVGVIDGHIYAVGGSHGCIHHNSVERYEPERDEWHLVAPMLTRRIGVGVAVLNRLLYAVGGFDGTNRLNSAECYYPERNEWRMITAMNTIRSGAGVCVLHNCIYAAGGYDGQDQLNSVERYDVATATWTFVAPMKHRRSALGITVHQGRIYVLGGYDGHTFLDSVECYDPDTDTWSEVTRMTSGRSGVGVAVT",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LDEETGEFL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5wfv"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GARIKTLSVSRPIIYGNTAKKMGSVKPAPAEHTHLWTIFVRGPQNEDISYFIKKVVFKLHDTYPNPVRSIEAPPFELTETGWGEFDINIKVYFVEEANEKVLNFYHRLRLHPEVSSVYFDEIVFNEPNEEFFKILMSR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "IMPKDIQL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5wyi"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "RRRRRCQVAFSYLPQNDDELELKVGDIIEVVGEVEEGWWEGVLNGKTGMFPSNFIKELSG",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RPVPMKRHIFR",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5xhz"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "AFDDAVEERVINEEYKIWKKNTPFLYDLVMTHALEWPSLTAQWLPDVTRPEGKDFSIHRLVLGTHTSDEQNHLVIASVQLPNDDSGKIEIEIKINHEGEVNRARYMPQNPCIIATKTPSSDVLVFDYTKHPSKPDPSGECNPDLRLRGHQKEGYGLSWNPNLSGHLLSASDDHTICLWDISAVPKEGKVVDAKTIFTGHTAVVEDVSWHLLHESLFGSVADDQKLMIWDTRSNNTSKPSHSVDAHTAEVNCLSFNPYSEFILATGSADKTVALWDLRNLKLKLHSFESHKDEIFQVQWSPHNETILASSGTDRRLNVWDLSKIGEEDAEDGPPELLFIHGGHTAKISDFSWNPNEPWVICSVSEDNIMQVWQMAENIYND",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/5xxq",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RRKQEQPKRL",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/5xxq",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5xxq"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "RYELSEKMLSACNLLKYNIKDPKALASKDMRICLNTLQHDWFRVSSQKSAVPAMVGDYIAAFEAVSPDVLRYIINMADGNGNTALHYSVSHSNFQIVKLLLDADVCNVDHQNKAGYTPIMLAALAAVEAEKDMQVVEELFSCGDVNAKASQAGQTALMLAVSHGRIDMVKGLLACGADVNIQDDEGSTALMCASEHGHVEIVKLLLAQPGCNGHLEDNDGSTALSIALEAGHKDIAVLLYAHLN",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "KARRRTTTQMELLYA",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "5yay"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ANSYVALYKFLPQENNDLALQPGDRIMLVDDSNEDWWKGKIGDRVGFFPANFVQRVRPGENVWRCCQPFSGNKEQGYMSLKENQICVGVGRSKDADGFIRVSSGKKRGLVPVDALTEI",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/6b27",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EPEIPLSPRP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/6b27",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6b27"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "NKYLVEFRAGKMSLKGTTVTPDKRKGLVYIQQTDDSLIHFCWKDRTSGNVEDDLIIFPDDCEFKRVPQCPSGRVYVLKFKAGSKRLFFWMQEPKTDQDEEHCRKVNEYLNNPP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/6co4",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QEPEPPEPFEYIDD",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/6co4",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6co4"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "SEVIKDLYEYLCNVRVHKSYEDDSGLWFDISQGTHSGGSSDDYSIMDYKLGFVTEVIYAPVLKQRSTEELYSLQSKLPEYLFETLSFPLSSLNQFYNKIAKSLNK",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/6dei",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TLKLKKRLESVPELFLH",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/6dei",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6dei"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "PKITLLTLIKTAEHWARQDIRTIEDSKLRALLTLCAVMTRKFSKSQLSLLCETHLRREGLGQDQAEPVLEVYQRLHSDKGGSFEAALWQQWDRQSLIMFITAFLNIALQLPCESSAVVVSGLRTLVP",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "FVPVPPPPLYPPP",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6e5x"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DQPPKCDISGKEAISALSRAKSKHCRQEIGETYCRHKLGLLMPEKVTRFCPLEGKANKNVQWDEDSVEYMPANPVRIAFVLVVHGRASRQLQRMFKAIYHKDHFYYIHVDKRSNYLHRQVLQVSRQYSNVRVTPWRMATIWGGASLLSTYLQSMRDLLEMTDWPWDFFINLSAADYPIRTNDQLVAFLSRYRDMNFLKSHGRDNARFIRKQGLDRLFLECDAHMWRLGDRRIPEGIAVDGGSDWFLLNRRFVEYVTFSTDDLVTKMKQFYSYTLLPAESFFHTVLENSPHCDTMVDNNLRITNWNRKLGCKCQYKHIVDWCGCSPNDFKPQDFHRFQQTARPTFFARKFEAVVNQEIIGQLDYYLYGNYPAGTPGLRSYWENVYDEPDGIHSLSDVTLTLYHSFARLGLRRAETSLHTDGENSCRYYPMGHPASVHLYFLADRFQGFLIKHHATNLAVSKLETLETWVMPKKVFKIASPDFGRLQFSEVGTDWDAKERLFRNFGGLLGPMDEPVGMQKWGKGPNVTVTVIWVDPVNVIAATYDILIESTAEFTHYKPPLNLPLRPGVWTVKILHHWVPVAETKFLVAPLTFSNRQPIKPEEALKLHNGPLRNAYMEQSFQSLNPVLSLPINPAQVEQARRNAASTGTALEGWLDSLVGGMWTAMDICATGPTACPVMQTCSQTAWSSFSPDPKSELGAVKPDGRLR",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EEEGAGGGQG",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6ej7"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "CDKTEKTWQLQKNERLSNMVVNQLNTNGFCIINNFLGSSCSTEVLQQVLNLYQSGVFSNGQLARNVSVNRIRGDKIAWIGGDERGCEAIKYLSSCVDSLISRCNGRLGNYMITGRTKCMVACYPGSGLGYIRHIDNPNRDGRCVTVLYYLNPNWNSQDCGGQLWLYPNENKVVKIDPIFDRLLLFWSDRRNPHEVKPAYAMRYAITLWYFDEKERALSSQ",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/6f0w",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DYDDLAPFVPPPSFDNRL",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/6f0w",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6f0w"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GAMGSIVSLLGIKVLNNPAKFTDPYEFEITFECLESLKHDLEWKLTYVGSSRSLDHDQELDSILVGPVPVGVNKFVFSADPPSAELIPASELVSVTVILLSCSYDGREFVRVGYYVNNEYDEEELRENPPAKVQVDHIVRNILAEKPRVTRFNIVWDNENEGDLYPPEQPGV",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LAITMLKPRKKAKAL",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6f0y"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "STVPRLHRPSLQHFREQFLVPGRPVILKGVADHWPAMQKWSLEYIQEIAGARTVPVEVGSRYTDEEWSQTLMTVNEFISKYIVNEPRDVGYLAQHQLFDQIPELKQDISIPDYCSLGDGEEEEITICAWFGPQGTISPLHQDPQQNFLVQVMGRKYIRLYSPQESGALYPHDTHLLHNTSQVDVENPDLEKFPKFAKAPFLSCILSPGEILFIPVKYWHYVRALDLSFSVSFWWS",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "CARAY",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6f4s"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "ESYLSPAQSVKPKINTEEKLPREKLNPPTPSIYLESKRDAFSPVLLQFCTDPRNPITVIRGLAGSLRLNLGLFSTKTLVEASGEHTVEVRTQVQQPSDENWDLTGTRQIWPCESSRSHTTIAKYAQYQASSFQESHIIKFGTNIDLSDAKRWKPQLQELLKLPAFMRVTSTGNMLSHVGHTILGMNTVQLYMKVPGSRTPGHQENNNFCSVNINIGPGDCEWFAVHEHYWETISAFCDRHGVDYLTGSWWPILDDLYASNIPVYRFVQRPGDLVWINAGTVHWVQATGWCNNIAWNVGPLTAYQYQLALERYEWNEVKNVKSIVPMIHVSWNVARTVKISDPDLFKMIKFCLLQSMKHCQVQRESLVRAGKKIAYQGRVKDEPAYYCNECDVEVFNILFVTSENGSRNTYLVHCEGCARRRSAGLQGVVVLEQYRTEELAQAYDAFTLAP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/6f6d",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "RIQLMTKAARKSAPATG",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/6f6d",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6f6d"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "EDTGVRVELAEEDHGRKSTIALRLWVEDPKDNGAIEFTFDLEKETPDEVAQEMIESGFFHESDVKIVAKSIRDRVALIQWRRE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/6fbk",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "LTQVVHSAGRRFIVSPV",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/6fbk",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6fbk"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GICIDVDNEDLFFIADKNSFSDDLSKNERIEYNTQSNYIENDFPINELILDTDLISKIELPSENTESLTDFNVDVPVYEKQPAIKKIFTDENTIFQYLYSQTFPLDIRDISLTSSFDDALLFSNKVYSFFSMDYIKTANKVVEAGLFAGWVKQIVNDFVIEANKSNTMDKIADISLIVPYIGLALNVGNETAKGNFENAFEIAGASILLEFIPELLIPVVGAFLLESYIDNKNKIIKTIDNALTKRNEKWSDMYGLIVAQWLSTVNTQFYTIKEGMYKALNYQAQALEEIIKYRYNIYSEKEKSNINIDFNDINSKLNEGINQAIDNINNFINGCSVSYLMKKMIPLAVEKLLDFDNTLKKNLLNYIDENKLYLIGSAEYEKSKVNKYLKTIMPFDLSIYTNDTILIEMFNKYNSEILNNIILNLRYKDNNLIDLSGYGAKVEVYDGVELNDKNQFKLTSSANSKIRVTQNQNIIFNSVFLDFSVSFWIRIPKYKNDGIQNYIHNEYTIINCMKNNSGWKISIRGNRIIWTLIDINGKTKSVFFEYNIREDISEYINRWFFVTITNNLNNAKIYINGKLESNTDIKDIREVIANGEIIFKLDGDIDRTQFIWMKYFSIFNTELSQSNIEERYKIQSYSEYLKDFWGNPLMYNKEYYMFNAGNKNSYIKLKKDSPVGEILTRSKYNQNSKYINYRDLYIGEKFIIRRKSNSQSINDDIVRKEDYIYLDFFNLNQEWRVYTYKYFKKEEMKLFLAPIYDSDEFYNTIQIKEYDEQPTYSCQLLFKKDEESTDEIGLIGIHRFYESGIVFEEYKDYFCISKWYLKEVKRKPYNLKLGCNWQFIPKDEGWTE",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "./MSA_pro/6g5g",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "QEDMFAKLKEKLFNEINK",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "MSA_pep/6g5g",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6g5g"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "LPPITPQELESMSPQEQRAALGDRLFLKVYEIAPELAPKITGMFLEMKPKEAYELLNDQKRLEERVTEALCVLKAHQT",
+                    "count": 1
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "HHMNPNATEFMP",
+                    "count": 1
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "6h7b"
+    }
+]

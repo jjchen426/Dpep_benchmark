@@ -1,0 +1,27 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "KRVLIVDDAAFMRMMLKDIITKAGYEVAGEATNGREAVEKYKELKPDIVTMDITMPEMNGIDAIKEIMKIDPNAKIIVCSAMGQQAMVIEAIKAGAKDFIVKPFQPSRVVEALNKV",
+                    "count": 1,
+                    "pairedMsaPath": "./MSA_pro_all_PepSet_dimer/4iga/pairing.a3m",
+                    "unpairedMsaPath": "./MSA_pro_all_PepSet_dimer/4iga/non_pairing.a3m",
+                    "templatesPath": "./MSA_pro_all_PepSet_dimer/4iga/hmmsearch.a3m"
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "DVLSQEEINQLIEALM",
+                    "count": 1,
+                    "pairedMsaPath": "MSA_pep/4iga/pairing.a3m",
+                    "unpairedMsaPath": "MSA_pep/4iga/non_pairing.a3m",
+                    "templatesPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/protenix/PepSet/template_pep/4iga/hmmsearch.a3m"
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4iga"
+    }
+]

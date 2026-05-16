@@ -1,0 +1,32 @@
+{
+    "name": "2ivz_15",
+    "modelSeeds": [
+        42,
+        43,
+        44,
+        45,
+        46
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "GRPIGVVPFQWAPEDIGGIVAADLRNSGKFNPLDRARLPQQPGSAQEVQPAAWSALGIDAVVVGQVTPNPDGSYNVAYQLVDTGGAPGTVLAQNSYKVNKQWLRYAGHTASDEVFEKLTGIKGAFRTRIAYVVQTNGGQFPYELRVSDYDGYNQFVVHRSPQPLMSPAWSPDGSKLAYVTFESGRSALVIQTLANGAVRQVASFPRHNGAPAFSPDGSKLAFALSKTGSLNLYVMDLASGQIRQVTDGRSNNTEPTWFPDSQNLAFTSDQAGRPQVYKVNINGGAPQRITWEGSQNQDADVSSDGKFMVMVSSNGGQQHIAKQDLATGGVQVLSSTFLDETPSLAPNGTMVIYSSSQGMGSVLNLVSTDGRFKARLPATDGQVKFPAWSPYL",
+                "id": "A",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pro_all_PepSet_dimer/2ivz/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pro_all_PepSet_dimer/2ivz/non_pairing.a3m",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "GASDGSGYSANDAPY",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

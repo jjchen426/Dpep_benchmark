@@ -1,0 +1,1 @@
+cat jobs.list | parallel -j 10 > dimer.out

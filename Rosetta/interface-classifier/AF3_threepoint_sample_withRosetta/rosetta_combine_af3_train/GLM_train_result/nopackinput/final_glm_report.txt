@@ -1,0 +1,30 @@
+Final GLM Formula:
+logit = (-7.672311) + (-1.912348) * dG_separated/dSASAx100 + (-0.254079) * energy_per_intres + (0.027576) * dSASA_int_per_res
+probability = 1 / (1 + exp(-logit))
+
+Threshold & Performance:
+Best threshold from repeated CV mean OOF PR curve: 0.338975
+Best F1: 0.733356
+Precision: 0.721656
+Recall: 0.745442
+ROC-AUC: 0.892579
+PR-AUC: 0.791020
+C (regularization): 10.0
+
+Final Parameters:
+                  term  raw_coefficient  standardized_coefficient
+                  bias        -7.672311                 -0.693992
+dG_separated/dSASAx100        -1.912348                 -1.824272
+     energy_per_intres        -0.254079                 -0.315102
+     dSASA_int_per_res         0.027576                  1.031509
+
+Parameter Stability (mean ± std across 50 repeats):
+                                term      mean      std
+                       raw_bias_mean -4.662675 0.005449
+                       std_bias_mean -1.228363 0.000429
+raw_coef_mean_dG_separated_dSASAx100 -0.805846 0.000620
+     raw_coef_mean_energy_per_intres -0.304682 0.002578
+     raw_coef_mean_dSASA_int_per_res  0.012907 0.000025
+std_coef_mean_dG_separated_dSASAx100 -0.768387 0.000572
+     std_coef_mean_energy_per_intres -0.356886 0.000744
+     std_coef_mean_dSASA_int_per_res  0.482242 0.000660

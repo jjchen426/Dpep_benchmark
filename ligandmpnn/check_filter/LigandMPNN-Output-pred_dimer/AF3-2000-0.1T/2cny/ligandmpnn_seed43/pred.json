@@ -1,0 +1,272 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_1/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GEYDPSTRVTVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_1/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_2/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GEYDPATRVTVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_2/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_2"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_3/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GSYDPSTRVTVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_3/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_3"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_4/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GTYDPSTRVTVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_4/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_4"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_5/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GAYDPATRVTVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_5/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_5"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_6/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GEFDPSTRVTVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_6/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_6"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_7/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GAYDPSTRVTVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_7/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_7"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_8/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GEYDPSTRVVVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_8/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_8"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_9/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GTFDPSTRVTVSVDAIFEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_9/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_9"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "DLTVSLIPVSGLKAGKNAPSAKIAKLVVNSTTLKEFGVRGISNNVVDSTGTAWRVAGKNTGKEIGVGLSSDSLRRSDSTEKWNGVNWMTFNSNDTLDIVLTGPAQNVTADTYPITLDVVGYQP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_10/msa/msa_pro",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "GKYDPSTRVTVSVDVISEP",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/AF3-2000-0.1T/2cny/ligandmpnn_seed43/2cny_10/msa/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "2cny_10"
+    }
+]
