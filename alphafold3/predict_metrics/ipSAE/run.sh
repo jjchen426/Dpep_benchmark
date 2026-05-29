@@ -1,0 +1,1 @@
+cat job.list | parallel -j 40 

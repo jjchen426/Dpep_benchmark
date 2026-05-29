@@ -45,7 +45,21 @@ __pycache__/
 !alphafold3/*.json
 !alphafold3/*.list
 !alphafold3/readme.md
-!/alphafold3/predict_metrics/summary/*.csv
+!/alphafold3/predict_metrics/**/*.csv
+!/alphafold3/predict_metrics/**/*.ipynb
+!/alphafold3/predict_metrics/**/*.out
+
+
+# ============================================
+# ESMFold2 outputs
+# ============================================
+/esmfold2/test_output/
+/esmfold2/PepSet_dimer/
+/esmfold2/test*/
+!/esmfold2/*.ipynb
+!/esmfold2/*.sh
+!/esmfold2/PepSet_dimer_output/**/*.json
+
 
 # ============================================
 # dataset — 排除所有处理后的PDB/噪声数据
@@ -139,12 +153,13 @@ __pycache__/
 # ============================================
 /Rosetta/Rosetta-interface/
 /Rosetta/interface-classifier/InterfaceAnalyzer/
-/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/ligandmpnn_seed42_pdb
-/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax
-!/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/interface
-!/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.sh
-!/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.ipynb
-!/Rosetta/interface-classifier/AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.list
+/Rosetta/interface-calssifier/3_AF3/predict/outputs/
+/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/ligandmpnn_seed42_pdb
+/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax
+!/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/interface
+!/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.sh
+!/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.ipynb
+!/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.list
 
 
 

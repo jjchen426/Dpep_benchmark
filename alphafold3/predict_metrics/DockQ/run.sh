@@ -1,1 +1,1 @@
-cat dockq.list | parallel -j 40 > dockq.out
+cat dockq-new.list | parallel -j 40 > dockq-msa_notemp-new.out
