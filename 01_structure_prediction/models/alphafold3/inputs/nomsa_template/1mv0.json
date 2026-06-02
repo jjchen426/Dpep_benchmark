@@ -1,0 +1,30 @@
+{
+    "name": "1mv0",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "GRLDLPPGFMFKVQAQHDYTATDTDELQLKAGDVVLVIPFQNPEEQDEGWLMGVKESDWNQHKKLEKCRGVFPENFTERVP",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "LLPTPPLSPSRRSG",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

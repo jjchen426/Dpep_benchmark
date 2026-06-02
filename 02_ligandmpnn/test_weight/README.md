@@ -1,0 +1,5 @@
+# 测试不同的LigandMPNN权重
+
+通过采用不同的权重以及带有不同噪音的PDB数据集/预测数据集，分析不同权重下LigandMPNN以及LigandMPNN-HETATM在进行序列设计时的序列恢复率差异
+
+运行主要脚本存放在scripts/pipeline.py以及相应的notebook中，均可运行

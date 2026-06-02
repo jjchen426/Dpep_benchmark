@@ -1,0 +1,30 @@
+{
+    "name": "6h7b",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "LPPITPQELESMSPQEQRAALGDRLFLKVYEIAPELAPKITGMFLEMKPKEAYELLNDQKRLEERVTEALCVLKAHQT",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "HHMNPNATEFMP",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

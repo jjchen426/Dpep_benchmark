@@ -1,0 +1,30 @@
+{
+    "name": "2kbr",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "MDRKVAREFRHKVDFLIENDAEKDYLYDVLRMYHQTMDVAVLVGDLKLVINEPSRLPLFDAIRPLIPLKHQVEYDQLTPR",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "DDDRYLREAIQEYDNIAK",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

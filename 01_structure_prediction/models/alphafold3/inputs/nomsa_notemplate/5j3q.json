@@ -1,0 +1,30 @@
+{
+    "name": "5j3q",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "DENILRNAVNLQVLKFHYPEIESIIDIASHVAVYQFDVGSQKWLKTSIEGTFFLVKDQRARVGYVILNRNSPENLYLFINHPSNVHLVDRYLIHRTENQHVVGLWMFDPNDMSRIFNIVKESLLR",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "HSPAASNLPIPTFL",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

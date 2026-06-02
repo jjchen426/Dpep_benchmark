@@ -1,0 +1,30 @@
+{
+    "name": "4z2o",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "SPDMKLLAGASNWVNQSGSVAQFVFTPSPTQPQTYEVSGNYINNAQGTGCKGTPYPLSGAYYSGNQIISFSVVWSNASANCQSATGWTGYFDFSGSQAVLKTDWNLAFYSGSTPAIQQGQDDFMQSV",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "VATVSESLLTE",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

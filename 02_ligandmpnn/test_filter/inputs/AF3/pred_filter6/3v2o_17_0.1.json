@@ -1,0 +1,30 @@
+{
+    "name": "3v2o_17_0.1",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "LSVHQLAAQGEMLYLATRIEQENVINHTDEEGFTPLMWAAAHGQIAVVEFLLQNGADPQLLGKGRESALSLACSKGYTDIVKMLLDCGVDVNEYDWNGGTPLLYAVHGNHVKCVKMLLESGADPTIETDSGYNSMDLAVALGYRSVQQVIESHLLKLL",
+                "id": "A",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/dataset_for_predict/MSA_pro_all_PepSet_dimer/3v2o/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/dataset_for_predict/MSA_pro_all_PepSet_dimer/3v2o/unpaired.a3m",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "LPRLPRLPRLP",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "1j2x",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "GPLDVQVTEDAVRRYLTRKPMTTKDLLKKFQTKKTGLSSEQTVNVLAQILKRLNPERKMINDKMHFSLKE",
+                "id": "A",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pro_all_PepSet_dimer/1j2x/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pro_all_PepSet_dimer/1j2x/non_pairing.a3m",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "SEADEMAKALEAELNDLM",
+                "id": "B",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pep/1j2x/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pep/1j2x/non_pairing.a3m",
+                "templates": []
+            }
+        }
+    ]
+}

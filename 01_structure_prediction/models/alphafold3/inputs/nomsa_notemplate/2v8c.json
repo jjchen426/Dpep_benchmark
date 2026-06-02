@@ -1,0 +1,30 @@
+{
+    "name": "2v8c",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "AGWQSYVDNLMCDGCCQEAAIVGYCDAKYVWAATAGGVFQSITPVEIDMIVGKDREGFFTNGLTLGAKKCSVIRDSLYVDGDCTMDIRTKSQGGEPTYNVAVGRAGRVLVFVMGKEGVHGGGLNKKAYSMAKYLRDSGF",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "GPPPPPGPPPPPG",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "4zoz",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "ENDSIAYFDGHKDSVFAIAQHPLYPNIVATGGSEGDADDAPGKGYVLDISSLNPIFEIDGHTDSINALTFTLPRGDFLVSGGMDGRMRVYAVSVPQNGALAQFKFLAESQETEEINWFAPCPSPDHPNTIALGASDGSVWVFTLDASDPSNPVQIVQSYFLHTGPCTAGAWSPDGLLLATVSEDESLHVYDVFGVAASKSLVTDNGQTVVSLTNVDQRFAVEGGLFSVAVSPTGAVVAVGGAGGQIKIVGLPRLAGTILASLQIQSDNIESLAFSPSAPILAAGSTDGSIAVFDTSRSFALRRHLRGAHAEDPVVKVEFVKSPPNAAMAGWLLTSCGMDGVVRRWDLRGGGLVKEWKGHRSGQEGGGVLGFVQGETGERIVTVGDDAVVLVFEA",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "ARRPARCYRYCK",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

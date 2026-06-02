@@ -1,0 +1,30 @@
+{
+    "name": "5wyi",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "GARIKTLSVSRPIIYGNTAKKMGSVKPAPAEHTHLWTIFVRGPQNEDISYFIKKVVFKLHDTYPNPVRSIEAPPFELTETGWGEFDINIKVYFVEEANEKVLNFYHRLRLHPEVSSVYFDEIVFNEPNEEFFKILMSR",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "IMPKDIQL",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

@@ -18,10 +18,17 @@
 *.params
 *.sample
 *.trb
+*.db
+*.h5
 
-/**/model_params/**
+# ============================================
+# model_params（软链接到模型权重）
+# ============================================
+**/model_params/
 
+# ============================================
 # 结果/指标汇总（按需选择性恢复，见下方各项目区）
+# ============================================
 *.csv
 
 # ============================================
@@ -32,142 +39,64 @@ __pycache__/
 .ipynb_checkpoints/
 .mypy_cache/
 
-
-
 # ============================================
-# alphafold3 — 恢复必要文件
-# 保留：脚本、notebook、配置JSON、PDB列表
+# 01_structure_prediction
 # ============================================
-/alphafold3/predict/original_result/
-/alphafold3/test/
-!alphafold3/*.sh
-!alphafold3/*.ipynb
-!alphafold3/*.json
-!alphafold3/*.list
-!alphafold3/readme.md
-!/alphafold3/predict_metrics/**/*.csv
-!/alphafold3/predict_metrics/**/*.ipynb
-!/alphafold3/predict_metrics/**/*.out
-
+/01_structure_prediction/**/outputs/
+/01_structure_prediction/**/test/
+/01_structure_prediction/archive/oldpredict_summary/figures/
+!/01_structure_prediction/summary/src/**/*.csv
 
 # ============================================
-# ESMFold2 outputs
+# 02_ligandmpnn
 # ============================================
-/esmfold2/test_output/
-/esmfold2/PepSet_dimer/
-/esmfold2/test*/
-!/esmfold2/*.ipynb
-!/esmfold2/*.sh
-!/esmfold2/PepSet_dimer_output/**/*.json
+/02_ligandmpnn/**/outputs/
+/02_ligandmpnn/**/src/
+/02_ligandmpnn/**/test/
+/02_ligandmpnn/**/__pycache__/
 
+# 恢复汇总结果
+!/02_ligandmpnn/**/outputs/**/*.csv
+!/02_ligandmpnn/**/outputs/**/*.png
 
 # ============================================
-# dataset — 排除所有处理后的PDB/噪声数据
-# 保留：PDB列表、JSON清单、notebook
+# 04_RFdiffusion2 — 整体忽略，仅保留例外
 # ============================================
+/04_RFdiffusion2/*
+!/04_RFdiffusion2/alanine-scan/
+!/04_RFdiffusion2/alanine-scan/ddg_files/
+!/04_RFdiffusion2/alanine-scan/ddg_files/**/job.list
+!/04_RFdiffusion2/alanine-scan/ddg_plot/
+!/04_RFdiffusion2/alanine-scan/ddg_plot/ddg_heatmap.tar.gz
+# 重新忽略 alanine-scan 中的非例外内容
+/04_RFdiffusion2/alanine-scan/*
+!/04_RFdiffusion2/alanine-scan/ddg_files/
+!/04_RFdiffusion2/alanine-scan/ddg_plot/
+/04_RFdiffusion2/alanine-scan/ddg_files/**/*.ok
+/04_RFdiffusion2/alanine-scan/ddg_plot/*.png
+
+# ============================================
+# dataset — 只保留 00_compressed + 脚本
+# ============================================
+/dataset/*
+!/dataset/00_compressed/
+!/dataset/00_compressed/**/*.gz
 !/dataset/*.ipynb
-
-
-
-# ============================================
-# ligandmpnn — 排除生成的设计/评分数据
-# 保留：脚本、notebook、配置
-# ============================================
-/ligandmpnn/**/model_params/
-/ligandmpnn/check_filter/predict/
-/ligandmpnn/test_filter/LigandMPNN-Output/
-/ligandmpnn/test_filter/Protenix/
-/ligandmpnn/test_hyperparam/PeptideMPNN_weight/
-/ligandmpnn/test_weight/outputs/
-/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/*
-/ligandmpnn/test_hyperparam/outputs/*
-
-!/ligandmpnn/*.md
-!/ligandmpnn/*.ipynb
-!/ligandmpnn/*.py
-!/ligandmpnn/*.sh
-!/ligandmpnn/*.xml
-
-# === LigandMPNN-Output-pred_dimer: 仅保留 csv 结果 ===
-!/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/**/
-!/ligandmpnn/check_filter/LigandMPNN-Output-pred_dimer/**/*.csv
-
-# === test_hyperparam/outputs: 仅保留 csv + 图片 ===
-!/ligandmpnn/test_hyperparam/outputs/**/
-!/ligandmpnn/test_hyperparam/outputs/**/*.csv
-!/ligandmpnn/test_hyperparam/outputs/**/*.png
-
+!/dataset/*.py
 
 # ============================================
-# predict_summary — 恢复模板CSV，排除结果CSV
+# dataset_for_predict — 完全忽略
 # ============================================
-!/predict_summary/*.ipynb
-!/predict_summary/*.md
-!/predict_summary/template.csv
-!/predict_summary/csv_summary/
+/dataset_for_predict/
 
 # ============================================
-# protenix — 恢复配置/脚本，排除预测结果
+# Rosetta — 完全忽略
 # ============================================
-!/protenix/*.sh
-!/protenix/*.json
-!/protenix/PepSet/*.sh
-!/protenix/PepSet/*.ipynb
-!/protenix/PepSet/*.json
-!/protenix/PepSet/README
-!/protenix/PepSet/DockQ/out/*.out
-
+/Rosetta/
 
 # ============================================
-# RFdiffusion2
-# ============================================
-/RFdiffusion2/minimized/
-/RFdiffusion2/resources/
-/RFdiffusion2/run/samples
-/RFdiffusion2/run/outputs
-/RFdiffusion2/alanine-scan/ddg_files/
-/RFdiffusion2/alanine-scan/ddg_plot/*
-!/RFdiffusion2/alanine-scan/ddg_plot/ddgplot.tar.gz
-
-!/RFdiffusion2/*.ipynb
-!/RFdiffusion2/*.py
-!/RFdiffusion2/*.sh
-!/RFdiffusion2/*.json
-!/RFdiffusion2/*.csv
-!/RFdiffusion2/alanine-scan/*.csv
-!/RFdiffusion2/alanine-scan/.alascan_status*
-!/RFdiffusion2/alanine-scan/ddgplot.tar.gz
-
-
-# ============================================
-# clash_metrics
-# ============================================
-/clash_metrics/PepSet_dimer/
-!/clash_metrics/*.py
-!/clash_metrics/*.ipynb
-!/clash_metrics/*.md
-
-# ============================================
-# Rosetta — 整个目录包含独立git子仓库
-# 当前排除2个子目录，但76GB中大量是生成数据
-# ============================================
-/Rosetta/Rosetta-interface/
-/Rosetta/interface-classifier/InterfaceAnalyzer/
-/Rosetta/interface-calssifier/3_AF3/predict/outputs/
-/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/ligandmpnn_seed42_pdb
-/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax
-!/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/interface
-!/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.sh
-!/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.ipynb
-!/Rosetta/interface-classifier/2_AF3_threepoint_sample_withRosetta/rosetta_combine_af3_train/rosetta_relax/*.list
-
-
-
-# ============================================
-# 根目录文档/列表恢复
+# 根目录
 # ============================================
 !/README.md
 !/readme-agent.md
-!/symlink_files.txt
-!/wrong_files.txt
 !/check.ipynb

@@ -1,0 +1,30 @@
+{
+    "name": "4j2c",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "GAMEDPFFVVKGEVQKAVNTAQGLFQRWTELLQDPSTATREEIDWTTNELRNNLRSIEWDLEDLDETISIVEANPRKFNLDATELSIRKAFITSTRQVVRDMKDQMST",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "AHGMLKLYYGLS",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

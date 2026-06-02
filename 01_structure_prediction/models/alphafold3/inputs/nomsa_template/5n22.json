@@ -1,0 +1,30 @@
+{
+    "name": "5n22",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "SMKKERVITEFWDGKIIMVSPDDPKYALKKAEEVRELVDSELGFQQPSQTRTYMFVSNEKKIVGCLIAEPIREAYRVLAEPPSLHSRAWRCSTEPEPAICGISRIWVFALMRRKAIASRMVDAVRSSFMYGSVLTTEEIAFSDPTPDGKLFASTYCKVPDFLVYNFVS",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "GAKKDQYFL",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

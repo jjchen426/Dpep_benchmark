@@ -1,0 +1,30 @@
+{
+    "name": "3v2o",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "LSVHQLAAQGEMLYLATRIEQENVINHTDEEGFTPLMWAAAHGQIAVVEFLLQNGADPQLLGKGRESALSLACSKGYTDIVKMLLDCGVDVNEYDWNGGTPLLYAVHGNHVKCVKMLLESGADPTIETDSGYNSMDLAVALGYRSVQQVIESHLLKLL",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "LPTLPKLPSLS",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+[
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EEVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_2_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_2_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ERVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_15_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_15_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EKVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_25_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_25_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ETVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_37_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_37_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EDVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_21_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_21_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EQVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_14_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_14_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "EEVMLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_62_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_62_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ENVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_1_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_1_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "ESVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_22_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_22_1"
+    },
+    {
+        "sequences": [
+            {
+                "proteinChain": {
+                    "sequence": "GKTITGVFNSFNSLTWSNAATYNYKGPGTPTWNAVLGWSLDGTSASPGDTFTLNMPCVFKFTTSQTSVDLTAHGVKYATCQFQAGEEFMTFSTLTCTVSNTLTPSIKALGTVTLPLAFNVGGTGSSVDLEDSKCFTAGTNTVTFNDGGKKISINVDFERSNVDPKGYLTDSRVIPSLNKVSTLFVAPQCANGYTSGTMGFANTYGDVQIDCSNIHVGITKGLNDWNYPVSSESFSYTKTCSSNGIFITYKNVPAGYRPFVDAYISATDVNSYTLSYANEYTCAGGYWQRAPFTLRWTGY",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/datasets/PepSet_3per_length/MSA/4leb",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            },
+            {
+                "proteinChain": {
+                    "sequence": "TEVTLNR",
+                    "count": 1,
+                    "msa": {
+                        "precomputed_msa_dir": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark-Filter/Protenix/2000-0.2T/4leb/predict_output-filter8/4leb_168_1/msa_pep",
+                        "pairing_db": "uniref100"
+                    }
+                }
+            }
+        ],
+        "modelSeeds": [],
+        "assembly_id": "1",
+        "name": "4leb_168_1"
+    }
+]

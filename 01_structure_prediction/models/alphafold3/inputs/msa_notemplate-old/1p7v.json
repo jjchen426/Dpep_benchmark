@@ -1,0 +1,30 @@
+{
+    "name": "1p7v",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "AAQTNAPWGLARISSTSPGTSTYYYDESAGQGSCVYVIDTGIEASHPEFEGRAQMVKTYYYSSRDGNGHGTHCAGTVGSRTYGVAKKTQLFGVKVLDDNGSGQYSTIIAGMDFVASDKNNRNCPKGVVASLSLGGGYSSSVNSAAARLQSSGVMVAVAAGNNNADARNYSPASEPSVCTVGASDRYDRRSSFSNYGSVLDIFGPGTDILSTWIGGSTRSISGTSMATPHVAGLAAYLMTLGKTTAASACRYIADTANKGDLSNIPFGTVNLLAYNNYQA",
+                "id": "A",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pro_all_PepSet_dimer/1p7v/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pro_all_PepSet_dimer/1p7v/non_pairing.a3m",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "PAPFAAA",
+                "id": "B",
+                "pairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pep/1p7v/pairing.a3m",
+                "unpairedMsaPath": "/home/junjiechen/1_work/250401-Dpepalign/Benchmark/alphafold3/MSA_pep/1p7v/non_pairing.a3m",
+                "templates": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+输入的pdb来源于/home/junjiechen/1_work/250401-Dpepalign/Benchmark/02_ligandmpnn/test_hyperparam/src下的不同目录。
+
+而src中的database则来源于/home/junjiechen/1_work/250401-Dpepalign/Benchmark/dataset中的PepSet数据集以及添加不同噪声的结果

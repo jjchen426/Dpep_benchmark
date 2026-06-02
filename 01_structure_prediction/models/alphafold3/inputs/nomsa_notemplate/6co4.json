@@ -1,0 +1,30 @@
+{
+    "name": "6co4",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "NKYLVEFRAGKMSLKGTTVTPDKRKGLVYIQQTDDSLIHFCWKDRTSGNVEDDLIIFPDDCEFKRVPQCPSGRVYVLKFKAGSKRLFFWMQEPKTDQDEEHCRKVNEYLNNPP",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "QEPEPPEPFEYIDD",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

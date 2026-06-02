@@ -1,0 +1,30 @@
+{
+    "name": "1l2z",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "DVMWEYKWENTGDAELYGPFTSAQMQTWVSEGYFPDGVYCRKLDPPGGQFYNSKRIDFDLYT",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "SHRPPPPGHRV",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "2xpn",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "MDPGTVLEISRSLKKRMQDILKKDNANNLEGRPATGKIENVEEISDILMSKALQESLLDEGILDEIKGWLEPLPDKSMPNIKIRKRLLDVLKTMKIHKEHLVTSGVGKIVYFYSINPKESKEVRASAKALVQKWTNEV",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "SHMFFEIFGTGEEYRYVLES",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

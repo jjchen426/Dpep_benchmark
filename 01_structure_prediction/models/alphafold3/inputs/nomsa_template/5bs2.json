@@ -1,0 +1,30 @@
+{
+    "name": "5bs2",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "ASPERKAAVALRSLFTFVAARVVLEQLQGPGGPETTYNQQAYLDLMDFLGTPMKGDGGDEWMAAVMRKNHALALRLMEVREAYLDEFEWGKTMEMASRETREANTRLMRAAAM",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "WKEIKF",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

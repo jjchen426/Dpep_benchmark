@@ -1,0 +1,1 @@
+cat dockq_2.list | parallel -j 20 > dockq_2.out

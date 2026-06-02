@@ -1,0 +1,30 @@
+{
+    "name": "5dai",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "PFEVVFDGAKEFADLIATASNLIDEAAFKFTEEGISMRAMDPSRVVLIDLNLPESIFSKYEVEEPETIGINMDQFKKILKRGKAKDTLILRKGDENFLEITFEGTAKRTFRLPLIDVEELELELPELPFTAKVVLLGEVLKEGIKDASLVSDAIKFIAKENEFTMKAEGETNEVEIRLTLEDEGLLDLEVEEETKSAYGIRYLSDMVKGIGKADEVILRFGNEMPLQMEYMIRDEGRLTFLLAPRVE",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "KQRTLESWF",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

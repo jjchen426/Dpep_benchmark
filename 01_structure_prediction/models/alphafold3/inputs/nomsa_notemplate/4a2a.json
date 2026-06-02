@@ -1,0 +1,30 @@
+{
+    "name": "4a2a",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "TVFYTSIDIGSRYIKGLVLGKWEALAFSSVKSRGLDEGEIKDAIAFKESVNTLLKELEEQLQKSLRSDFVISFSSVSFEREDTVIERDFGEEKRSITLDILSEMQSEALEKLKENGKTPLHIFSKRYLLDDERIVFNPLDMKASKIAIEYTSIVVPLKVYEMFYNFLQDTVKSPFQLKSSLVSTAEGVLTTPEKDRGVVVVNLGYNFTGLIAYKNGVPIKISYVPVGMKHVIKDVSAVLDTSFEESERLIITHGNAVYNDLKEEEIQYRGLDGNTIKTTTAKKLSVIIHARLREIMSKSKKFFREVEAKIPGGVVLTGGGAKIPRINELATEVFKSPVRTGCYANSDRPSIINADEVANDPSFAAAFGNVFA",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "DIPAIYRYGLEGLL",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

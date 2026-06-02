@@ -1,0 +1,30 @@
+{
+    "name": "3g2s",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "EPAMEPETLEARINRATNPLNKELDWASINGFCEQLNEDFEGPPLATRLLAHKIQSPQEWEAIQALTVLETCMKSCGKRFHDEVGKFRFLNELIKVVSPKYLGSRTSEKVKNKILELLYSWTVGLPEEVKIAEAYQMLKKQGIVKS",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "GFSDDVPMVIA",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

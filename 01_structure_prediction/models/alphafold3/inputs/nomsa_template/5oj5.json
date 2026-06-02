@@ -1,0 +1,30 @@
+{
+    "name": "5oj5",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "LSTPALAIPALDYNPWEAIQLPTTATILDMSFIDRHHGWLVGVNATLMETRDGGQTWEPRTLVLDHSDYRFNSVSFQGNEGWIVGEPPIMLHTTDGGQSWSQIPLDPKLPGSPRLIKALGNGSAEMITNVGAIYRTKDSGKNWQALVQEAIGVMRNLNRSPSGEYVAVSSRGSFYSTWEPGQTAWEPHNRTTSRRLHNMGFTPDGRLWMIVNGGKIAFSDPDNSENWGELLSPLRRNSVGFLDLAYRTPNEVWLAGGAGALLCSQDGGQTWQQDVDVKKVPSNFYKILFFSPDQGFILGQKGILLRYVTD",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "FPLDLA",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

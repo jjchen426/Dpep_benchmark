@@ -1,0 +1,30 @@
+{
+    "name": "4j8b",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "MAMLTKFESRSSRAKGVAFHPTQPWILTSLHNGRIQLWDYRMGTLLDRFDGHDGPVRGIAFHPTQPIFVSGGDDYKVNVWNYKSRKLLFSLCGHMDYVRVCTFHHEYPWILSCSDDQTIRIWNWQSRNCIAILTGHSHYVMCAAFHPSEDLIVSASLDQTVRVWDISGLRADAIVKFVLEGHDRGVNWCAFHPTLPLILSAGDDRLVKLWRMTASKAWEVDTCRGHFNNVSCCLFHPHQELILSASEDKTIRVWDLNRRTAVQTFRRANDRFWFITVHPKLNLFAAAHDSGVMVFKLE",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "LKTKLL",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

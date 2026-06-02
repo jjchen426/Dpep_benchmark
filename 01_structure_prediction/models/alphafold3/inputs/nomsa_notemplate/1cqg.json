@@ -1,0 +1,30 @@
+{
+    "name": "1cqg",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "MVKQIESKTAFQEALDAAGDKLVVVDFSATWCGPAKMIKPFFHSLSEKYSNVIFLEVDVDDAQDVASEAEVKATPTFQFFKKGQKVGEFSGANKEKLEATINELV",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "PATLKICSWNVDG",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

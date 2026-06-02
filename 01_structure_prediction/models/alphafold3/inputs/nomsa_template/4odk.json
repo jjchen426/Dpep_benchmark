@@ -1,0 +1,30 @@
+{
+    "name": "4odk",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "MKVGQDKVVTIRYTLQVEGEVLDQGELSYLHGHRNLIPGLEEALEGREEGEAFQAHVPAEKAYGPHDPEGVQVVPLSAFPEDAEVVPGAQFYAQDNPMPLTVVAVEGEEVTVDFNHPLAGKDLDFQVEVVKVREATPEELLHGHAHPSGHHHH",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "HKYNNYEG",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

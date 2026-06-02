@@ -1,0 +1,30 @@
+{
+    "name": "6f4s",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "STVPRLHRPSLQHFREQFLVPGRPVILKGVADHWPAMQKWSLEYIQEIAGARTVPVEVGSRYTDEEWSQTLMTVNEFISKYIVNEPRDVGYLAQHQLFDQIPELKQDISIPDYCSLGDGEEEEITICAWFGPQGTISPLHQDPQQNFLVQVMGRKYIRLYSPQESGALYPHDTHLLHNTSQVDVENPDLEKFPKFAKAPFLSCILSPGEILFIPVKYWHYVRALDLSFSVSFWWS",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        },
+        {
+            "protein": {
+                "sequence": "CARAY",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

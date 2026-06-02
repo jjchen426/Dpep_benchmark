@@ -1,0 +1,30 @@
+{
+    "name": "4txr",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "LAPLPPLPAQFKSIQHHLRTAQEHDKRDPVVAYYCRLYAMQTGMKIDSKTPECRKFLSKLMDQLEALKKQLGDNEAITQEIVGCAHLENYALKMFLYADNEDRAGRFHKNMIKSFYTASLLIDVITVFGELTDENVKHRKYARWKATYIHNCLKNGETP",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "QDELSQRLARLRDQV",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}

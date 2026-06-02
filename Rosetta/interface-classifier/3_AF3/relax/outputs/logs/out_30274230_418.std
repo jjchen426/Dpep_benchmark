@@ -1,5 +1,0 @@
-Array ID: 418 | Offset: 0 | Line: 418
-Running on c01b05n10
-Start: Tue May 26 22:33:58 CST 2026
-CMD: /home/chuwang_pkuhpc/lustre1/jobs/cjj/install/rosetta.source.release-425/main/source/bin/relax.mpi.linuxgccrelease -s ./inputs/2aij_24_seed-43_sample-4_model.pdb -relax:constrain_relax_to_start_coords -ramp_constraints false -relax:coord_constrain_sidechains -nstruct 40 -out:path:all ./outputs -out:file:silent_struct_type binary -out:file:silent 2aij_24_seed-43_sample-4_model.out.gz -out:file:scorefile 2aij_24_seed-43_sample-4_model.sc -ex1 -ex2 -ignore_zero_occupancy false -use_input_sc -flip_HNQ -no_optH false -score:weights beta_jan25 -beta_jan25 > ./outputs/logs/2aij_24_seed-43_sample-4_model_relaxed.log 2>&1
-End: Wed May 27 13:46:23 CST 2026

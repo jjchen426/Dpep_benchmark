@@ -1,0 +1,30 @@
+{
+    "name": "5v2p",
+    "modelSeeds": [
+        42,
+        43,
+        44
+    ],
+    "dialect": "alphafold3",
+    "version": 2,
+    "sequences": [
+        {
+            "protein": {
+                "sequence": "SSLEEDREAVRREAERQAQAQLEKAKTKPVAFAVRTNVRYSAAQEDDVPVPGMAISFEAKDFLHVKEKFNNDWWIGRLVKEGCEIGFIPSPVKLENMRLQHEQRAKQHTPPYDVVPSMRPVVLVGPSLKGYEVTDMMQKALFDFLKHRFEGRISITRVTADISLAKSSLAEVQSEIERIFELARTLQLVVLDADTINHPAQLSKTSLAPIIVYVKISSPKVLQRLIKSRGKSQAKHLNVQMVAADKLAQCPPQESFDVILDENQLEDACEHLADYLEAYWKATHPPS",
+                "id": "A",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": null
+            }
+        },
+        {
+            "protein": {
+                "sequence": "CSPLECDLKGYLDWITQAE",
+                "id": "B",
+                "pairedMsa": "",
+                "unpairedMsa": "",
+                "templates": []
+            }
+        }
+    ]
+}
