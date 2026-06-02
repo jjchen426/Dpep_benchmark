@@ -74,7 +74,11 @@ __pycache__/
 !/04_RFdiffusion2/alanine-scan/ddg_plot/
 /04_RFdiffusion2/alanine-scan/ddg_files/**/*.ok
 /04_RFdiffusion2/alanine-scan/ddg_plot/*.png
-
+/04_RFdiffusion2/alanine-scan/ddg_files/**/ddg_out/
+/04_RFdiffusion2/alanine-scan/ddg_files/**/mutfiles/
+!/04_RFdiffusion2/alanine-scan/*.csv
+!/04_RFdiffusion2/alanine-scan/*.ipynb
+!/04_RFdiffusion2/alanine-scan/*.sh
 # ============================================
 # dataset — 只保留 00_compressed + 脚本
 # ============================================
