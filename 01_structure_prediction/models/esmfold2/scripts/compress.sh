@@ -1,0 +1,1 @@
+find /home/junjiechen/1_work/250401-Dpepalign/Benchmark/01_structure_prediction/models/esmfold2/outputs -type f -name "*.cif" -exec gzip {} +
